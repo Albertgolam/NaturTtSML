@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 NaturTtSML.xsd">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La hija del molinero</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>
+					<!-- supply publication information --></p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>
+					<!-- supply information about the source --></p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<castList>
+				<castItem>
+					<role xml:id="NAR">narrador</role>
+					<roleDesc sex="male" age="adult" kind="human" personality="neutral"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_pa_diphone"
+						pitchRange="10%" speechRate="-60%" pauseDuration="275%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="PAD">padre</role>
+					<roleDesc sex="male" age="adult" kind="human" personality="neutral"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_pa_diphone"
+						pitch="5%" pitchRange="5%" speechRate="-35%" pauseDuration="60%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="REY">rey</role>
+					<roleDesc sex="male" age="senior" kind="human" personality="bad"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_pa_diphone"
+						pitch="-40%" pitchRange="5%" speechRate="-40%" pauseDuration="60%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="HOM">hombrecillo</role>
+					<roleDesc sex="male" age="adult" kind="human" personality="bad"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_pa_diphone"
+						pitch="20%" pitchRange="5%" speechRate="-40%" pauseDuration="60%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="HIJA">hija</role>
+					<roleDesc sex="female" age="young" kind="human" personality="good"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_sf_diphone"
+						pitch="60%" pitchRange="2.5%" speechRate="-55%" pauseDuration="70%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="MEN">mensajero</role>
+					<roleDesc sex="male" age="adult" kind="human" personality="good"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_pa_diphone"
+						pitch="10%" pitchRange="5%" speechRate="-50%" pauseDuration="75%"/>
+				</castItem>
+			</castList>
+		</front>
+		<body>
+			<u xml:id="utt1" who="#NAR">
+				<seg xml:id="seg11" emotion="neutral" dialogueAct="inform" sentenceType="declarative">La hija del molinero</seg>
+			</u>
+			<pause dur="PT0.5S"/>
+			<u xml:id="utt2" who="#NAR">
+				<seg xml:id="seg21" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Había en un lugar cuyo nombre no recuerdo, un molinero que era muy pobre, pero tenía una hija hermosísima. </seg>
+			</u>
+			<u xml:id="utt3" who="#NAR">
+				<seg xml:id="seg31" emotion="neutral" dialogueAct="inform" sentenceType="declarative">En cierta ocasión fue el molinero a hablar con el rey, y para darse tono le dijo: </seg>
+			</u>
+			<u xml:id="utt4" who="#PAD">
+				<seg xml:id="seg41" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt4_seg41" dialogueAct="inform" sentenceType="declarative">-Tengo una hija que sabe hilar paja, convirtiéndola en oro. </seg>
+			</u>
+			<u xml:id="utt5" who="#NAR">
+				<seg xml:id="seg51" emotion="neutral" dialogueAct="inform" sentenceType="declarative">El rey dijo al molinero: </seg>
+			</u>
+			<u xml:id="utt6" who="#REY">
+				<seg xml:id="seg61" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt6_seg61" dialogueAct="inform" sentenceType="declarative">-Eso es un arte que no deja de tener su mérito; </seg>
+			</u>
+			<u xml:id="utt7" who="#REY">
+				<seg xml:id="seg71" emotion="neutral" dialogueAct="inform" sentenceType="declarative">si tu hija es tan ingeniosa como dices, </seg>
+				<seg xml:id="seg72" emotion="neutral" dialogueAct="suggest" sentenceType="imperative">tráela mañana a Palacio y la someteré a una prueba. </seg>
+			</u>
+			<pause dur="PT0.2S"/>
+			<u xml:id="utt8" who="#NAR">
+				<seg xml:id="seg81" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cuando la muchacha llegó, la llevó a un aposento lleno de paja, le dio una rueca y un huso, y le dijo: </seg>
+			</u>
+			<u xml:id="utt9" who="#REY">
+				<seg xml:id="seg91" emotion="neutral" dialogueAct="instruct" sentenceType="imperative">-Ponte al trabajo, </seg>
+				<seg xml:id="seg92" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt9_seg92" dialogueAct="threat" sentenceType="declarative">y si no hilas toda esa paja, convirtiéndola en oro, creeré que os habéis querido burlar de mí, y a ti y a tu padre os haré ahorcar. </seg>
+			</u>
+			<u xml:id="utt10" who="#NAR">
+				<seg xml:id="seg101" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Luego cerró el cuarto y la dejó sola. </seg>
+			</u>
+			<pause dur="PT0.2S"/>
+			<u xml:id="utt11" who="#NAR">
+				<seg xml:id="seg111" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt11_seg111" dialogueAct="inform" sentenceType="declarative">La pobre muchacha no sabía qué hacer; </seg>
+			</u>
+			<u xml:id="utt12" who="#NAR">
+				<seg xml:id="seg121" emotion="neutral" dialogueAct="inform" sentenceType="declarative">no comprendía cómo había de arreglárselas para hilar la paja convirtiéndola en oro, </seg>
+				<seg xml:id="seg122" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt12_seg122" dialogueAct="inform" sentenceType="declarative">y cada vez tenía más miedo, </seg>
+				<seg xml:id="seg123" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt12_seg123" dialogueAct="inform" sentenceType="declarative">hasta que por fin se echó a llorar. </seg>
+			</u>
+			<u xml:id="utt13" who="#NAR">
+				<seg xml:id="seg131" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt13_seg131" dialogueAct="inform" sentenceType="declarative">Entonces se abrió la puerta de repente, </seg>
+				<seg xml:id="seg132" emotion="neutral" dialogueAct="inform" sentenceType="declarative"> y entró un hombrecillo, que dijo: </seg>
+			</u>
+			<u xml:id="utt14" who="#HOM">
+				<seg xml:id="seg141" emotion="neutral" dialogueAct="inform" sentenceType="declarative">-Buenas noches. </seg>
+			</u>
+			<u xml:id="utt15" who="#HOM">
+				<seg xml:id="seg151" emotion="neutral" dialogueAct="setQuestion" sentenceType="interrogative">¿Por qué lloras tanto? </seg>
+			</u>
+			<pause dur="PT0.4S"/>
+			<u xml:id="utt16" who="#HIJA">
+				<seg xml:id="seg161" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt16_seg161" dialogueAct="inform" sentenceType="exclamative">-¡Ay! </seg>
+			</u>
+			<u xml:id="utt17" who="#NAR">
+				<seg xml:id="seg171" emotion="neutral" dialogueAct="inform" sentenceType="declarative">contestó la muchacha: </seg>
+			</u>
+			<u xml:id="utt18" who="#HIJA">
+				<seg xml:id="seg181" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Tengo el compromiso de hilar paja y transformarla en oro, </seg>
+				<seg xml:id="seg182" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt18_seg182" dialogueAct="inform" sentenceType="declarative">y no sé cómo arreglarme. </seg>
+			</u>
+			<u xml:id="utt19" who="#NAR">
+				<seg xml:id="seg191" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Y dijo el hombrecillo: </seg>
+			</u>
+			<u xml:id="utt20" who="#HOM">
+				<seg xml:id="seg201" emotion="neutral" dialogueAct="offer" sentenceType="interrogative">-¿Qué me das, si yo te saco del apuro? </seg>
+			</u>
+			<pause dur="PT0.6S"/>
+			<u xml:id="utt21" who="#HIJA">
+				<seg xml:id="seg211" emotion="neutral" dialogueAct="answer" sentenceType="declarative">-Mi collar, </seg>
+			</u>
+			<u xml:id="utt22" who="#NAR">
+				<seg xml:id="seg221" emotion="neutral" dialogueAct="inform" sentenceType="declarative">dijo la joven. </seg>
+			</u>
+			<u xml:id="utt23" who="#NAR">
+				<seg xml:id="seg231" emotion="neutral" dialogueAct="inform" sentenceType="declarative">El hombrecillo tomó el collar, y sentándose, cogió la rueca, y a las pocas vueltas se llenaba el huso de oro. </seg>
+			</u>
+			<u xml:id="utt24" who="#NAR">
+				<seg xml:id="seg241" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Entonces ponía otro nuevo, y así continuó hasta por la mañana, en que la paja se acabó, y todos los husos se llenaron de oro. </seg>
+			</u>
+			<u xml:id="utt25" who="#NAR">
+				<seg xml:id="seg251" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Al amanecer vino el Rey, y al ver tanto oro,</seg>
+				<seg xml:id="seg252" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt25_seg252" sentenceType="declarative"> se maravilló; </seg>
+			</u>
+			<u xml:id="utt26" who="#NAR">
+				<seg xml:id="seg261" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt26_seg261" dialogueAct="inform" sentenceType="declarative">pero era extremadamente avariento y deseaba todavía más oro. </seg>
+			</u>
+			<u xml:id="utt27" who="#NAR">
+				<seg xml:id="seg271" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Llevó a la joven a otro aposento lleno de paja, mandándole hilarla toda en una noche, si quería conservar la vida. </seg>
+			</u>
+			<u xml:id="utt28" who="#NAR">
+				<seg xml:id="seg281" emotion="neutral" dialogueAct="inform" sentenceType="declarative">La joven, no sabiendo qué hacer, </seg>
+				<seg xml:id="seg282" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt28_seg282" dialogueAct="inform" sentenceType="declarative">empezó a llorar.</seg>
+			</u>
+			<u xml:id="utt29" who="#NAR">
+				<seg xml:id="seg291" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt29_seg291" dialogueAct="inform" sentenceType="declarative">Entonces se abrió de nuevo la puerta, </seg>
+				<seg xml:id="seg292" emotion="neutral" dialogueAct="inform" sentenceType="declarative">y el hombrecillo apareció y dijo: </seg>
+			</u>
+			<u xml:id="utt30" who="#HOM">
+				<seg xml:id="seg301" emotion="neutral" dialogueAct="offer" sentenceType="interrogative">-¿Qué me das, si te convierto la paja en oro? </seg>
+			</u>
+			<pause dur="PT0.6S"/>
+			<u xml:id="utt31" who="#HIJA">
+				<seg xml:id="seg311" emotion="neutral" dialogueAct="answer" sentenceType="declarative">-Mi sortija, </seg>
+			</u>
+			<u xml:id="utt32" who="#NAR">
+				<seg xml:id="seg321" emotion="neutral" dialogueAct="inform" sentenceType="declarative">contestó la joven. </seg>
+			</u>
+			<u xml:id="utt33" who="#NAR">
+				<seg xml:id="seg331" emotion="neutral" dialogueAct="inform" sentenceType="declarative">El hombrecillo tomó la sortija, empezó de nuevo a dar vueltas a la rueca, y por la mañana, toda la paja era oro hilado. </seg>
+			</u>
+			<u xml:id="utt34" who="#NAR">
+				<seg xml:id="seg341" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt34_seg341" dialogueAct="inform" sentenceType="declarative">El Rey se alegró sobremanera a la vista de tanto oro; </seg>
+			</u>
+			<u xml:id="utt35" who="#NAR">
+				<seg xml:id="seg351" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt35_seg351" dialogueAct="inform" sentenceType="declarative">pero aún deseaba más, </seg>
+				<seg xml:id="seg352" emotion="neutral" dialogueAct="inform" sentenceType="declarative">y mandó llevar a la joven a otro aposento más grande, lleno de paja, diciéndole: </seg>
+			</u>
+			<u xml:id="utt36" who="#REY">
+				<seg xml:id="seg361" emotion="neutral" dialogueAct="promise" sentenceType="declarative">-Si la hilas toda esta noche, serás mi mujer. </seg>
+			</u>
+			<pause dur="PT0.8S"/>
+			<u xml:id="utt37" who="#REY">
+				<seg xml:id="seg371" emotion="neutral" dialogueAct="inform" sentenceType="interrogative">¿Qué importa que sea hija de un molinero? </seg>
+			</u>
+			<u xml:id="utt38" who="#NAR">
+				<seg xml:id="seg381" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Pensaba; </seg>
+			</u>
+			<u xml:id="utt39" who="#REY">
+				<seg xml:id="seg391" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt39_seg391" dialogueAct="inform" sentenceType="declarative">una mujer más rica no la he de encontrar en el mundo. </seg>
+			</u>
+			<pause dur="PT0.4S"/>
+			<u xml:id="utt40" who="#NAR">
+				<seg xml:id="seg401" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cuando la joven se quedó sola, vino el hombrecillo por tercera vez, y dijo: </seg>
+			</u>
+			<u xml:id="utt41" who="#HOM">
+				<seg xml:id="seg411" emotion="neutral" dialogueAct="offer" sentenceType="interrogative">-¿Qué me das, si te hilo la paja también esta vez? </seg>
+			</u>
+			<pause dur="PT0.6S"/>
+			<u xml:id="utt42" who="#HIJA">
+				<seg xml:id="seg421" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt42_seg421" dialogueAct="answer" sentenceType="declarative">-Ya no tengo nada que darte, </seg>
+			</u>
+			<u xml:id="utt43" who="#NAR">
+				<seg xml:id="seg431" emotion="neutral" dialogueAct="inform" sentenceType="declarative">contestó la joven.</seg>
+			</u>
+			<pause dur="PT0.3S"/>
+			<u xml:id="utt44" who="#HOM">
+				<seg xml:id="seg441" emotion="neutral" dialogueAct="request" sentenceType="imperative">-Entonces, prométeme tu primer hijo cuando seas Reina. </seg>
+			</u>
+			<u xml:id="utt45" who="#HIJA">
+				<seg xml:id="seg451" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt45_seg451" dialogueAct="inform" sentenceType="declarative">-Dios sabe si llegaré a tenerlo, </seg>
+			</u>
+			<u xml:id="utt46" who="#NAR">
+				<seg xml:id="seg461" emotion="neutral" dialogueAct="inform" sentenceType="declarative">pensaba la joven; </seg>
+			</u>
+			<u xml:id="utt47" who="#NAR">
+				<seg xml:id="seg471" emotion="neutral" dialogueAct="inform" sentenceType="declarative">y como no sabía qué hacer, prometió al hombrecillo lo que le pedía, y éste a cambio le hiló otra vez toda la paja, haciéndola oro. </seg>
+			</u>
+			<u xml:id="utt48" who="#NAR">
+				<seg xml:id="seg481" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cuando el Rey entró por la mañana y vio satisfecho su deseo, se casó con la joven, </seg>
+				<seg xml:id="seg482" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt48_seg482" dialogueAct="inform" sentenceType="declarative">y la hermosa hija del molinero fue Reina. </seg>
+			</u>
+			<u xml:id="utt49" who="#NAR">
+				<seg xml:id="seg491" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt49_seg491" dialogueAct="inform" sentenceType="declarative">Al año, dio a luz a un niño hermoso. </seg>
+			</u>
+			<u xml:id="utt50" who="#NAR">
+				<seg xml:id="seg501" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Ya no se acordaba del hombrecillo; </seg>
+			</u>
+			<u xml:id="utt51" who="#NAR">
+				<seg xml:id="seg511" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt51_seg511" dialogueAct="inform" sentenceType="declarative">pero entró éste de pronto en el aposento y dijo: </seg>
+			</u>
+			<u xml:id="utt52" who="#HOM">
+				<seg xml:id="seg521" emotion="neutral" dialogueAct="inform" sentenceType="declarative">-Vengo a que me cumplas lo que me has prometido. </seg>
+			</u>
+			<u xml:id="utt53" who="#NAR">
+				<seg xml:id="seg531" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt53_seg531" dialogueAct="inform" sentenceType="declarative">La Reina se asustó, y ofreció al hombrecillo todas las riquezas del reino si le dejaba el niño; </seg>
+			</u>
+			<u xml:id="utt54" who="#NAR">
+				<seg xml:id="seg5419" emotion="neutral" dialogueAct="inform" sentenceType="declarative">pero el hombrecillo dijo: </seg>
+			</u>
+			<pause dur="PT0.3S"/>
+			<u xml:id="utt55" who="#HOM">
+				<seg xml:id="seg551" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt55_seg551" dialogueAct="declineOffer" sentenceType="declarative">-No; </seg>
+			</u>
+			<u xml:id="utt56" who="#HOM">
+				<seg xml:id="seg561" emotion="neutral" dialogueAct="inform" sentenceType="declarative">prefiero un ser vivo a todos los tesoros del mundo. </seg>
+			</u>
+			<u xml:id="utt57" who="#NAR">
+				<seg xml:id="seg571" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt57_seg571" dialogueAct="inform" sentenceType="declarative">Entonces la Reina empezó a llorar tanto, </seg>
+				<seg xml:id="seg572" emotion="neutral" dialogueAct="inform" sentenceType="declarative">que el hombrecillo se compadeció de ella. </seg>
+			</u>
+			<pause dur="PT0.4S"/>
+			<u xml:id="utt58" who="#HOM">
+				<seg xml:id="seg581" emotion="neutral" dialogueAct="offer" sentenceType="declarative">-Tres días te doy de plazo; </seg>
+			</u>
+			<u xml:id="utt59" who="#HOM">
+				<seg xml:id="seg591" emotion="neutral" dialogueAct="promise" sentenceType="declarative">si para entonces sabes mi nombre, te dejaré tu hijo. </seg>
+			</u>
+			<pause dur="PT0.3S"/>
+			<u xml:id="utt60" who="#NAR">
+				<seg xml:id="seg601" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Entonces la Reina, durante toda la noche, trató de recordar todos los nombres que había oído, y mandó un mensajero por el país para que se enterase de todos los nombres que allí se conocían. </seg>
+			</u>
+			<u xml:id="utt61" who="#NAR">
+				<seg xml:id="seg611" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cuando a la mañana siguiente vino el hombrecillo, le dijo ella todos los nombres que sabía, empezando por Gaspar, Melchor, y Baltasar: </seg>
+			</u>
+			<u xml:id="utt62" who="#NAR">
+				<seg xml:id="seg621" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt62_seg621" dialogueAct="inform" sentenceType="declarative">pero a cada palabra decía el hombrecillo: </seg>
+			</u>
+			<u xml:id="utt63" who="#HOM">
+				<seg xml:id="seg631" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt63_seg631" dialogueAct="answer" sentenceType="declarative">-No me llamo de ese modo. </seg>
+			</u>
+			<u xml:id="utt64" who="#NAR">
+				<seg xml:id="seg641" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Al segundo día mandó preguntar por toda la vecindad cómo se llamaba la gente, y dijo al hombrecillo los nombres más raros; </seg>
+			</u>
+			<u xml:id="utt65" who="#NAR">
+				<seg xml:id="seg651" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt65_seg651" dialogueAct="inform" sentenceType="declarative">pero siempre le contestaba: </seg>
+			</u>
+			<u xml:id="utt66" who="#HOM">
+				<seg xml:id="seg661" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt66_seg661" dialogueAct="answer" sentenceType="declarative">-No me llamo así. </seg>
+			</u>
+			<pause dur="PT0.3S"/>
+			<u xml:id="utt67" who="#NAR">
+				<seg xml:id="seg671" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Al tercer día vino el mensajero y dijo: </seg>
+			</u>
+			<u xml:id="utt68" who="#MEN">
+				<seg xml:id="seg681" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt68_seg681" dialogueAct="inform" sentenceType="declarative">-Nombre nuevo no he podido averiguar ninguno, </seg>
+				<seg xml:id="seg682" emotion="neutral" dialogueAct="inform" sentenceType="declarative">pero al llegar a una montaña muy alta, junto a un bosque sombrío, en donde el zorro y la liebre se dan las buenas noches, vi una casita pequeña, y delante de ella una hoguera: </seg>
+			</u>
+			<u xml:id="utt69" who="#MEN">
+				<seg xml:id="seg691" emotion="neutral" dialogueAct="inform" sentenceType="declarative">alrededor de ésta bailaba un hombrecillo muy ridículo, y gritaba: </seg>
+			</u>
+			<u xml:id="utt70" who="#MEN">
+				<seg xml:id="seg701" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt70_seg701" dialogueAct="inform" sentenceType="declarative">-Hoy guiso al hijo de la Reina, y mañana, me lo trago: </seg>
+			</u>
+			<u xml:id="utt71" who="#MEN">
+				<seg xml:id="seg711" emotion="neutral" dialogueAct="inform" sentenceType="exclamative">¡no quiero que nadie sepa que me llamo, Sin Nombre! </seg>
+			</u>
+			<u xml:id="utt72" who="#NAR">
+				<seg xml:id="seg721" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt72_seg721" dialogueAct="inform" sentenceType="declarative">Figuraos qué contenta se puso la Reina al oír el nombre; </seg>
+			</u>
+			<u xml:id="utt73" who="#NAR">
+				<seg xml:id="seg731" emotion="neutral" dialogueAct="inform" sentenceType="declarative">y cuando poco después entró el hombrecillo y dijo:</seg>
+			</u>
+			<u xml:id="utt74" who="#HOM">
+				<seg xml:id="seg741" emotion="neutral" dialogueAct="inform" sentenceType="declarative">-Pues bien, señora Reina:</seg>
+			</u>
+			<u xml:id="utt75" who="#HOM">
+				<seg xml:id="seg751" emotion="neutral" dialogueAct="setQuestion" sentenceType="interrogative">¿cómo me llamo?</seg>
+			</u>
+			<u xml:id="utt76" who="#NAR">
+				<seg xml:id="seg761" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Contestó ella:</seg>
+			</u>
+			<pause dur="PT0.3S"/>
+			<u xml:id="utt77" who="#HIJA">
+				<seg xml:id="seg771" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt77_seg771" dialogueAct="answer" sentenceType="declarative">-Te llamas Sin Nombre.</seg>
+			</u>
+			<u xml:id="utt78" who="#HOM">
+				<seg xml:id="seg781" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt78_seg781" dialogueAct="inform" sentenceType="exclamative">-¡El demonio te lo debe haber dicho!</seg>
+			</u>
+			<u xml:id="utt79" who="#NAR">
+				<seg xml:id="seg791" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt79_seg791" dialogueAct="inform" sentenceType="declarative">Gritó el hombrecillo, dando con el pie derecho tan fuerte en el suelo, </seg>
+				<seg xml:id="seg792" emotion="neutral" dialogueAct="inform" sentenceType="declarative">que se hundió hasta la mitad del cuerpo.</seg>
+			</u>
+			<u xml:id="utt80" who="#NAR">
+				<seg xml:id="seg801" emotion="emotion.la_hija_del_molinero.xml#emotion_c02_utt80_seg801" dialogueAct="inform" sentenceType="declarative">Luego, lleno de rabia, agarró con las dos manos su pie izquierdo, y se partió por la mitad.</seg>
+			</u>
+			<u xml:id="utt81" who="#NAR">
+				<seg xml:id="seg811" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Desde entonces, no se le ha vuelto a ver.</seg>
+			</u>
+		</body>
+	</text>
+</TEI>
+
+

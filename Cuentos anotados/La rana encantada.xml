@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 NaturTtSML.xsd">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La rana encantada</title>
+      </titleStmt>
+      <publicationStmt>
+        <p><!-- supply publication information --></p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><!-- supply information about the source --></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>  
+  <text>
+    <front>
+			<castList>
+				<castItem>
+					<role xml:id="NAR">narrador</role>
+					<roleDesc sex="male" age="adult" kind="human" personality="neutral"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_pa_diphone"
+						pitchRange="10%" speechRate="-60%" pauseDuration="275%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="RANA">rana</role>
+					<roleDesc sex="female" age="adult" kind="animal" personality="good"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_sf_diphone"
+						pitch="-45%" pitchRange="5%" speechRate="-60%" pauseDuration="100%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="NIÑA">niña</role>
+					<roleDesc sex="female" age="child" kind="human" personality="bad"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_sf_diphone"
+						pitch="120%" pitchRange="4.5%" speechRate="-65%" pauseDuration="100%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="REY">rey</role>
+					<roleDesc sex="male" age="adult" kind="human" personality="good"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_pa_diphone"
+						pitch="-40%" pitchRange="5%" speechRate="-40%" pauseDuration="60%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="PRI">príncipe</role>
+					<roleDesc sex="male" age="young" kind="human" personality="good"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_pa_diphone"
+						pitch="20%" pitchRange="2.5%" speechRate="-45%" pauseDuration="100%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="BAL">Baltasar</role>
+					<roleDesc sex="male" age="senior" kind="human" personality="good"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_pa_diphone"
+						pitch="-30%" pitchRange="2.5%" speechRate="-45%" pauseDuration="100%"/>
+				</castItem>
+			</castList>
+		</front>
+    <body>
+      <u xml:id="utt1" who="#NAR">
+        <seg xml:id="seg11" emotion="neutral" dialogueAct="inform" sentenceType="declarative">La rana encantada</seg>
+      </u>
+      <pause dur="PT0.4S"/>
+      <u xml:id="utt2" who="#NAR">
+        <seg xml:id="seg21" emotion="neutral" dialogueAct="inform" sentenceType="declarative">En unos tiempos que han pasado para no volver, y en los que se cumplían todavía los deseos, vivía un Rey, cuyas hijas eran todas muy hermosas: </seg>
+      </u>
+      <u xml:id="utt3" who="#NAR">
+        <seg xml:id="seg31" emotion="neutral" dialogueAct="inform" sentenceType="declarative">pero la menor lo era tanto, que el mismo sol, que tantas caras bonitas ha visto, se maravillaba cada vez que iluminaba su rostro. </seg>
+      </u>
+      <u xml:id="utt4" who="#NAR">
+        <seg xml:id="seg41" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cerca del castillo real había un bosque grande y sombrío, y en éste, a la sombra de un viejo tilo, un pozo. </seg>
+      </u>
+      <u xml:id="utt5" who="#NAR">
+        <seg xml:id="seg51" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cuando hacía mucho calor, iba la hija del Rey al bosque, se sentaba a la orilla del fresco pozo, y cuando se aburría, cogía una bola de oro, la tiraba a lo alto, y la volvía a coger. </seg>
+      </u>
+      <u xml:id="utt6" who="#NAR">
+        <seg xml:id="seg61" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Era éste el juego que más la divertía. </seg>
+      </u>
+      <u xml:id="utt7" who="#NAR">
+        <seg xml:id="seg71" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Sucedió una vez, que al tirar a lo alto la bola de oro, no cayó en sus manos, sino en el suelo, y de allí rodó al agua. </seg>
+      </u>
+      <u xml:id="utt8" who="#NAR">
+        <seg xml:id="seg81" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Siguiola la Princesa con los ojos, pero la bola desapareció, y el pozo era tan hondo, que no se le veía el fin. </seg>
+      </u>
+      <u xml:id="utt9" who="#NAR">
+        <seg xml:id="seg91" emotion="emotion.la_rana_encantada#emotion_c03_utt9_seg91" dialogueAct="inform" sentenceType="declarative">Entonces, la hermosa niña comenzó a llorar, y lloraba cada vez más alto, sin poderse contener. </seg>
+      </u>
+      <u xml:id="utt10" who="#NAR">
+        <seg xml:id="seg101" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cuando se quejaba con más amargura, oyó una voz que le dijo: </seg>
+      </u>
+      <u xml:id="utt11" who="#RANA">
+        <seg xml:id="seg111" emotion="neutral" dialogueAct="setQuestion" sentenceType="interrogative">-¿Qué tienes, Princesita, que gritas de modo que enterneces las piedras? </seg>
+      </u>
+      <pause dur="PT0.4S"/>
+      <u xml:id="utt12" who="#NAR">
+        <seg xml:id="seg121" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Miró la niña en derredor para ver de dónde salía la voz, y vio una rana que sacaba del agua su asquerosa cabeza. </seg>
+      </u>
+      <u xml:id="utt13" who="#NIÑA">
+        <seg xml:id="seg131" emotion="emotion.la_rana_encantada#emotion_c03_utt13_seg131" dialogueAct="inform" sentenceType="exclamative">-¡Ah! </seg>
+      </u>
+      <u xml:id="utt14" who="#NIÑA">
+        <seg xml:id="seg141" emotion="neutral" dialogueAct="propositionalQuestion" sentenceType="interrogative">¿Eres tú, vieja azota-agua? </seg>
+      </u>
+      <pause dur="PT0.4S"/>
+      <u xml:id="utt15" who="#NIÑA">
+        <seg xml:id="seg151" emotion="emotion.la_rana_encantada#emotion_c03_utt15_seg151" dialogueAct="inform" sentenceType="declarative">Lloro por mi bola de oro, que se me ha caído en el pozo. </seg>
+      </u>
+      <pause dur="PT0.4S"/>
+      <u xml:id="utt16" who="#RANA">
+        <seg xml:id="seg161" emotion="emotion.la_rana_encantada#emotion_c03_utt16_seg161" dialogueAct="request" sentenceType="imperative">-Cállate, y no pongas motes, </seg>
+      </u>
+      <u xml:id="utt17" who="#NAR">
+        <seg xml:id="seg171" emotion="neutral" dialogueAct="inform" sentenceType="declarative">contestó la rana: </seg>
+      </u>
+      <u xml:id="utt18" who="#RANA">
+        <seg xml:id="seg181" emotion="neutral" dialogueAct="offer" sentenceType="declarative">yo puedo ayudarte; </seg>
+      </u>
+      <u xml:id="utt19" who="#RANA">
+        <seg xml:id="seg191" emotion="neutral" dialogueAct="setQuestion" sentenceType="interrogative">pero, ¿qué me das, si te saco tu juguete? </seg>
+      </u>
+      <u xml:id="utt20" who="#NIÑA">
+        <seg xml:id="seg201" emotion="neutral" dialogueAct="answer" sentenceType="declarative">-Lo que quieras, querida rana, </seg>
+      </u>
+      <u xml:id="utt21" who="#NAR">
+        <seg xml:id="seg211" emotion="neutral" dialogueAct="inform" sentenceType="declarative">dijo la niña; </seg>
+      </u>
+      <u xml:id="utt22" who="#NIÑA">
+        <seg xml:id="se221" emotion="neutral" dialogueAct="answer" sentenceType="declarative">mis vestidos, mis perlas y piedras preciosas, y hasta la corona que llevo puesta. </seg>
+      </u>
+      <u xml:id="utt23" who="#NAR">
+        <seg xml:id="seg231" emotion="neutral" dialogueAct="inform" sentenceType="declarative">La rana contestó: </seg>
+      </u>
+      <u xml:id="utt24" who="#RANA">
+        <seg xml:id="seg241" emotion="neutral" dialogueAct="inform" sentenceType="declarative">-No quiero tus vestidos, ni tus perlas, ni tus piedras preciosas, ni tu corona de oro: </seg>
+      </u>
+      <u xml:id="utt25" who="#RANA">
+        <seg xml:id="seg251" emotion="neutral" dialogueAct="request" sentenceType="declarative">pero si quieres amarme y tenerme contigo como amiga y compañera en tus juegos, sentarme a tu mesa, darme de comer en tu plato de oro, beber en tu copa y acostarme en tu lecho, </seg>
+        <seg xml:id="seg252" emotion="neutral" dialogueAct="promise" sentenceType="declarative">bajaré al pozo y te subiré la bola de oro. </seg>
+      </u>
+      <u xml:id="utt26" who="#NIÑA">
+        <seg xml:id="seg261" emotion="emotion.la_rana_encantada#emotion_c03_utt26_seg261" sentenceType="declarative">-¡Ah! </seg>
+      </u>
+      <u xml:id="utt27" who="#NAR">
+        <seg xml:id="seg271" emotion="neutral" dialogueAct="inform" sentenceType="declarative">dijo ella: </seg>
+      </u>
+      <u xml:id="utt28" who="#NIÑA">
+        <seg xml:id="seg281" emotion="emotion.la_rana_encantada#emotion_c03_utt28_seg281" dialogueAct="promise" sentenceType="declarative">te prometo todo lo que quieras </seg>
+        <seg xml:id="seg282" emotion="emotion.la_rana_encantada#emotion_c03_utt28_seg282" dialogueAct="addressRequest" sentenceType="declarative">si me devuelves la bola. </seg>
+      </u>
+      <u xml:id="utt29" who="#NAR">
+        <seg xml:id="seg291" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Pero pensaba: </seg>
+      </u>
+      <u xml:id="utt30" who="#NIÑA">
+        <seg xml:id="seg301" emotion="emotion.la_rana_encantada#emotion_c03_utt30_seg301" dialogueAct="inform" sentenceType="exclamative">¡Qué cosas tan extrañas quiere esa infeliz rana! </seg>
+      </u>
+      <u xml:id="utt31" who="#NIÑA">
+        <seg xml:id="seg311" emotion="neutral" dialogueAct="inform" sentenceType="exclamative">¡Puede cantar en el agua entre sus iguales, </seg>
+        <seg xml:id="seg312" emotion="emotion.la_rana_encantada#emotion_c03_utt31_seg312" dialogueAct="inform" sentenceType="exclamative">pero no puede ser compañera de ningún hombre! </seg>
+      </u>
+      <u xml:id="utt32" who="#NAR">
+        <seg xml:id="seg321" emotion="neutral" dialogueAct="inform" sentenceType="declarative">La rana, cuando se le prometió lo que pedía, hundió la cabeza en el agua, bajó al fondo, y poco después apareció de nuevo, llevando en la boca la bola, que depositó en la hierba. </seg>
+      </u>
+      <u xml:id="utt33" who="#NAR">
+        <seg xml:id="seg331" emotion="neutral" dialogueAct="inform" sentenceType="declarative">La hija del Rey, </seg>
+        <seg xml:id="seg332" emotion="emotion.la_rana_encantada#emotion_c03_utt33_seg332" dialogueAct="inform" sentenceType="declarative">llena de alegría en cuanto vio su hermoso juguete, </seg>
+        <seg xml:id="seg333" emotion="neutral" dialogueAct="inform" sentenceType="declarative">lo cogió y echó a correr con él, saltando. </seg>
+      </u>
+      <u xml:id="utt34" who="#RANA">
+        <seg xml:id="seg341" emotion="emotion.la_rana_encantada#emotion_c03_utt34_seg341" dialogueAct="request" sentenceType="imperative">-¡Espérate, espérate! </seg>
+      </u>
+      <u xml:id="utt35" who="#NAR">
+        <seg xml:id="seg351" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Le gritó la rana; </seg>
+      </u>
+      <u xml:id="utt36" who="#RANA">
+        <seg xml:id="seg361" emotion="emotion.la_rana_encantada#emotion_c03_utt36_seg361" dialogueAct="request" sentenceType="imperative">llévame contigo, </seg>
+        <seg xml:id="seg362" emotion="neutral" dialogueAct="inform" sentenceType="declarative">yo no puedo correr como tú lo haces. </seg>
+      </u>
+      <u xml:id="utt37" who="#NAR">
+        <seg xml:id="seg371" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Pero de nada le sirvió gritar tras ella lo más alto que pudo, porque la Princesa no le hacía caso, y corría a su palacio. </seg>
+      </u>
+      <u xml:id="utt38" who="#NAR">
+        <seg xml:id="seg381" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Muy pronto se olvidó de la pobre rana, que tuvo que volverse a su pozo con un humor endiablado. </seg>
+      </u>
+      <u xml:id="utt39" who="#NAR">
+        <seg xml:id="seg391" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Al otro día, estaba la joven sentada a la mesa con el Rey, su padre, y los cortesanos, y al comer en su plato de oro, oyó subir una cosa por la escalera de mármol. </seg>
+      </u>
+      <u xml:id="utt40" who="#NAR">
+        <seg xml:id="seg401" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cuando aquella cosa llegó arriba, llamó a la puerta, y exclamó: </seg>
+      </u>
+      <u xml:id="utt41" who="#RANA">
+        <seg xml:id="seg411" emotion="emotion.la_rana_encantada#emotion_c03_utt41_seg411" dialogueAct="request" sentenceType="imperative">-Hija menor del Rey, ábreme. </seg>
+      </u>
+      <u xml:id="utt42" who="#NAR">
+        <seg xml:id="seg421" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Se levantó la Princesa y quiso ver quién estaba fuera; pero al abrir, </seg>
+        <seg xml:id="seg422" emotion="emotion.la_rana_encantada#emotion_c03_utt42_seg422" dialogueAct="inform" sentenceType="declarative">vio a la rana. </seg>
+      </u>
+      <u xml:id="utt43" who="#NAR">
+        <seg xml:id="seg431" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cerró la puerta corriendo </seg>
+        <seg xml:id="seg432" emotion="emotion.la_rana_encantada#emotion_c03_utt43_seg432" dialogueAct="inform" sentenceType="declarative">y se sentó de nuevo a la mesa con mucho miedo. </seg>
+      </u>
+      <u xml:id="utt44" who="#NAR">
+        <seg xml:id="seg441" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Notando el Rey que el corazón de la niña latía fuertemente, le dijo: </seg>
+      </u>
+      <u xml:id="utt45" who="#REY">
+        <seg xml:id="seg451" emotion="neutral" dialogueAct="setQuestion" sentenceType="interrogative">-Hija mía, ¿qué tienes? </seg>
+      </u>
+      <u xml:id="utt46" who="#REY">
+        <seg xml:id="seg461" emotion="neutral" dialogueAct="propositionalQuestion" sentenceType="interrogative">¿Hay a la puerta algún gigante que viene por ti? </seg>
+      </u>
+      <pause dur="PT0.2S"/>
+      <u xml:id="utt47" who="#NIÑA">
+        <seg xml:id="seg471" emotion="neutral" dialogueAct="answer" sentenceType="exclamative">-¡Ah, no! </seg>
+      </u>
+      <u xml:id="utt48" who="#NAR">
+        <seg xml:id="seg481" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Contestó, </seg>
+      </u>
+      <u xml:id="utt49" who="#NIÑA">
+        <seg xml:id="seg491" emotion="emotion.la_rana_encantada#emotion_c03_utt49_seg491" dialogueAct="inform" sentenceType="declarative">no es ningún gigante, sino una rana muy fea. </seg>
+      </u>
+      <u xml:id="utt50" who="#REY">
+        <seg xml:id="seg501" emotion="neutral" dialogueAct="setQuestion" sentenceType="interrogative">-¿Y qué quiere, qué espera de ti esa rana? </seg>
+      </u>
+      <pause dur="PT0.4S"/>
+      <u xml:id="utt51" who="#NIÑA">
+        <seg xml:id="seg511" emotion="emotion.la_rana_encantada#emotion_c03_utt51_seg511" sentenceType="exclamative">-¡Ay, amado padre! </seg>
+      </u>
+      <u xml:id="utt52" who="#NIÑA">
+        <seg xml:id="seg521" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cuando estaba ayer jugando en el bosque, junto al pozo, se me cayó al agua mi bola de oro. </seg>
+      </u>
+      <u xml:id="utt53" who="#NIÑA">
+        <seg xml:id="seg531" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Y como lloraba, la rana me la subió, después de haberme exigido promesa de que sería mi compañera; </seg>
+      </u>
+      <u xml:id="utt54" who="#NIÑA">
+        <seg xml:id="seg541" emotion="emotion.la_rana_encantada#emotion_c03_utt54_seg541" dialogueAct="inform" sentenceType="declarative">pero nunca creí que pudiera salir del agua. </seg>
+      </u>
+      <pause dur="PT0.2S"/>
+      <u xml:id="utt55" who="#NIÑA">
+        <seg xml:id="seg551" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Ahora ha salido, ha llegado hasta aquí, y contra mi gusto, se empeña en llegar a este sitio. </seg>
+      </u>
+      <pause dur="PT0.2S"/>
+      <u xml:id="utt56" who="#NAR">
+        <seg xml:id="seg561" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Entretanto llamaba la rana por segunda vez, diciendo: </seg>
+      </u>
+      <u xml:id="utt57" who="#RANA">
+        <seg xml:id="seg571" emotion="emotion.la_rana_encantada#emotion_c03_utt57_seg571" dialogueAct="request" sentenceType="imperative">-Hija menor del Rey, ábreme: </seg>
+      </u>
+      <u xml:id="utt58" who="#RANA">
+        <seg xml:id="seg581" emotion="neutral" dialogueAct="propositionalQuestion" sentenceType="interrogative">¿no sabes lo que me dijiste ayer, junto a la fría agua del pozo? </seg>
+      </u>
+      <pause dur="PT0.4S"/>
+      <u xml:id="utt59" who="#RANA">
+        <seg xml:id="seg591" emotion="emotion.la_rana_encantada#emotion_c03_utt59_seg591" dialogueAct="request" sentenceType="imperative">Hija menor del Rey, ábreme. </seg>
+      </u>
+      <u xml:id="utt60" who="#NAR">
+        <seg xml:id="seg601" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Entonces dijo el Rey: </seg>
+      </u>
+      <u xml:id="utt61" who="#REY">
+        <seg xml:id="seg611" emotion="emotion.la_rana_encantada#emotion_c03_utt61_seg611" dialogueAct="instruct" sentenceType="imperative">-Debes cumplir lo que has prometido; ve, y abre. </seg>
+      </u>
+      <u xml:id="utt62" who="#NAR">
+        <seg xml:id="seg621" emotion="neutral" dialogueAct="inform" sentenceType="declarative">La niña fue y abrió la puerta, y entró la rana, yendo siempre junto a sus pies hasta llegar a su silla. </seg>
+      </u>
+      <u xml:id="utt63" who="#NAR">
+        <seg xml:id="seg631" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Se sentó en el suelo, y dijo: </seg>
+      </u>
+      <u xml:id="utt64" who="#RANA">
+        <seg xml:id="seg641" emotion="neutral" dialogueAct="instruct" sentenceType="imperative">-Levántame. </seg>
+      </u>
+      <u xml:id="utt65" who="#NAR">
+        <seg xml:id="seg651" emotion="neutral" dialogueAct="inform" sentenceType="declarative">La niña vaciló hasta que lo mandó el Rey, su padre. </seg>
+      </u>
+      <u xml:id="utt66" who="#NAR">
+        <seg xml:id="seg661" emotion="neutral" dialogueAct="inform" sentenceType="declarative">La rana saltó de la silla a la mesa, y dijo a la Princesa: </seg>
+      </u>
+      <u xml:id="utt67" who="#RANA">
+        <seg xml:id="seg671" emotion="neutral" dialogueAct="instruct" sentenceType="imperative">-Ahora acércame tu plato de oro, para que comamos juntas. </seg>
+      </u>
+      <pause dur="PT0.3S"/>
+      <u xml:id="utt68" who="#NAR">
+        <seg xml:id="seg681" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Hízolo en seguida, aunque se conocía que de mala gana. </seg>
+      </u>
+      <u xml:id="utt69" who="#NAR">
+        <seg xml:id="seg691" emotion="neutral" dialogueAct="inform" sentenceType="declarative">La rana comió mucho, pero la niña no podía pasar bocado. </seg>
+      </u>
+      <u xml:id="utt70" who="#NAR">
+        <seg xml:id="seg701" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Al fin, dijo la rana: </seg>
+      </u>
+      <u xml:id="utt71" who="#RANA">
+        <seg xml:id="seg711" emotion="neutral" dialogueAct="inform" sentenceType="declarative">-Estoy harta y cansada; </seg>
+      </u>
+      <u xml:id="utt72" who="#RANA">
+        <seg xml:id="seg721" emotion="neutral" dialogueAct="instruct" sentenceType="imperative">llévame a tu alcoba, prepara tu cama de seda, y allí dormiremos. </seg>
+      </u>
+      <u xml:id="utt73" who="#NAR">
+        <seg xml:id="seg731" emotion="emotion.la_rana_encantada#emotion_c03_utt73_seg731" dialogueAct="inform" sentenceType="declarative">La Princesa comenzó a llorar, </seg>
+        <seg xml:id="seg732" emotion="emotion.la_rana_encantada#emotion_c03_utt73_seg732" dialogueAct="inform" sentenceType="declarative">demostrando gran miedo a la fría rana que quería dormir en su hermoso y limpio lecho. </seg>
+      </u>
+      <u xml:id="utt74" who="#NAR">
+        <seg xml:id="seg741" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Pero el Rey se incomodó muchísimo, y dijo a su hija: </seg>
+      </u>
+      <u xml:id="utt75" who="#REY">
+        <seg xml:id="seg751" emotion="emotion.la_rana_encantada#emotion_c03_utt75_seg751" dialogueAct="inform" sentenceType="declarative">-No obras bien despreciando de ese modo a la que te ayudó cuando necesitaste su auxilio. </seg>
+      </u>
+      <u xml:id="utt76" who="#NAR">
+        <seg xml:id="seg761" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Entonces la Princesita cogió a la rana con dos dedos, la llevó, y la puso en un rincón. </seg>
+      </u>
+      <u xml:id="utt77" who="#NAR">
+        <seg xml:id="seg771" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Pero en cuanto estuvo en la cama, se acercó la rana arrastrando, y le dijo: </seg>
+      </u>
+      <u xml:id="utt78" who="#RANA">
+        <seg xml:id="seg781" emotion="neutral" dialogueAct="inform" sentenceType="declarative">-Estoy cansada; </seg>
+      </u>
+      <u xml:id="utt79" who="#RANA">
+        <seg xml:id="seg791" emotion="neutral" dialogueAct="inform" sentenceType="declarative">quiero dormir tan bien como tú; </seg>
+      </u>
+      <u xml:id="utt80" who="#RANA">
+        <seg xml:id="seg801" emotion="emotion.la_rana_encantada#emotion_c03_utt80_seg801" dialogueAct="request" sentenceType="imperative">súbeme, </seg>
+        <seg xml:id="seg802" emotion="emotion.la_rana_encantada#emotion_c03_utt80_seg802" dialogueAct="threat" sentenceType="declarative">o se lo digo a tu padre. </seg>
+      </u>
+      <u xml:id="utt81" who="#NAR">
+        <seg xml:id="seg811" emotion="neutral" dialogueAct="inform" sentenceType="declarative">La Princesa se incomodó mucho, la cogió y la tiró contra la pared con todas sus fuerzas, diciendo: </seg>
+      </u>
+      <u xml:id="utt82" who="#NIÑA">
+        <seg xml:id="seg821" emotion="emotion.la_rana_encantada#emotion_c03_utt82_seg821" dialogueAct="inform" sentenceType="declarative">-Ahora descansarás de una vez, rana asquerosa. </seg>
+      </u>
+      <u xml:id="utt83" who="#NAR">
+        <seg xml:id="seg831" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Pero cuando cayó al suelo, la rana se convirtió en un joven Príncipe, con ojos hermosos, facciones agradables y gallarda apostura, que fue desde entonces, por la voluntad de su padre, su querido compañero y esposo, y le contó que había sido encantado por una mala hechicera, y que nadie podía sacarle del pozo sino ella, y que al día siguiente se marcharían a su país juntos. </seg>
+      </u>
+      <u xml:id="utt84" who="#NAR">
+        <seg xml:id="seg841" emotion="neutral" dialogueAct="inform" sentenceType="declarative">A la mañana siguiente, cuando el sol les despertó, se metieron en un coche tirado por ocho caballos blancos, que llevaban plumas blancas en la cabeza, y tenían por riendas cadenas de oro; </seg>
+      </u>
+      <u xml:id="utt85" who="#NAR">
+        <seg xml:id="seg851" emotion="neutral" dialogueAct="inform" sentenceType="declarative">detrás iba el criado del joven Rey, que era el fiel Baltasar. </seg>
+      </u>
+      <u xml:id="utt86" who="#NAR">
+        <seg xml:id="seg861" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Éste se había afligido tanto cuando su señor fue convertido en rana, que se había puesto tres barras de hierro encima del corazón, para que no saltase de dolor y de tristeza. </seg>
+      </u>
+      <u xml:id="utt87" who="#NAR">
+        <seg xml:id="seg871" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Pero el joven Rey debía hacer el viaje en su coche; </seg>
+      </u>
+      <u xml:id="utt88" who="#NAR">
+        <seg xml:id="seg881" emotion="neutral" dialogueAct="inform" sentenceType="declarative">el fiel Baltasar subió a los dos, se colocó detrás de ellos e iba lleno de alegría por la salvación de su amo. </seg>
+      </u>
+      <u xml:id="utt89" who="#NAR">
+        <seg xml:id="seg891" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cuando habían andado un poco de camino, oyó el hijo del Rey una cosa que sonaba detrás, como si se rompiera algo. </seg>
+      </u>
+      <u xml:id="utt90" who="#NAR">
+        <seg xml:id="seg901" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Entonces se volvió, y dijo: </seg>
+      </u>
+      <u xml:id="utt91" who="#PRI">
+        <seg xml:id="seg911" emotion="neutral" dialogueAct="propositionalQuestion" sentenceType="interrogative">-Baltasar, ¿se ha roto el coche? </seg>
+      </u>
+      <pause dur="PT0.4S"/>
+      <u xml:id="utt92" who="#BAL">
+        <seg xml:id="seg921" emotion="neutral" dialogueAct="disconfirm" sentenceType="declarative">-No, señor; </seg>
+      </u>
+      <u xml:id="utt93" who="#BAL">
+        <seg xml:id="seg931" emotion="neutral" dialogueAct="correction" sentenceType="declarative">no se ha roto el coche, sino una barra de las que puse sobre mi corazón cuando estuvisteis en el pozo convertido en rana. </seg>
+      </u>
+      <u xml:id="utt94" who="#NAR">
+        <seg xml:id="seg941" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Dos veces más se oyó el mismo ruido en el camino. </seg>
+      </u>
+      <u xml:id="utt95" who="#NAR">
+        <seg xml:id="seg951" emotion="neutral" dialogueAct="inform" sentenceType="declarative">El hijo del Rey creía siempre que se rompía el coche, y eran las barras que saltaban del corazón del fiel Baltasar, porque su señor estaba desencantado, </seg>
+        <seg xml:id="seg952" emotion="emotion.la_rana_encantada#emotion_c03_utt95_seg952" dialogueAct="inform" sentenceType="declarative">y era feliz. </seg>
+      </u>
+      <u xml:id="utt96" who="#NAR">
+        <seg xml:id="seg961" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cuando los dos esposos llegaron a su nueva residencia, la joven la encontró tan lujosa que le pareció una maravilla. </seg>
+      </u>
+      <u xml:id="utt97" who="#NAR">
+        <seg xml:id="seg971" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Allí, completamente dichosos, vivieron largos años. </seg>
+      </u>
+    </body>
+  </text>
+</TEI>
+

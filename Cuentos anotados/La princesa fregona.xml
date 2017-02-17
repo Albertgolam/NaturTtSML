@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 NaturTtSML.xsd">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La princesa fregona</title>
+      </titleStmt>
+      <publicationStmt>
+        <p><!-- supply publication information --></p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><!-- supply information about the source --></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>  
+  <text>
+    <front>
+    <castList>
+			<castItem>
+					<role xml:id="NAR">narrador</role>
+					<roleDesc sex="male" age="adult" kind="human" personality="neutral"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_pa_diphone"
+						pitchRange="10%" speechRate="-60%" pauseDuration="275%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="PRI">princesa</role>
+					<roleDesc sex="female" age="young" kind="human" personality="good"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_sf_diphone"
+						pitch="60%" pitchRange="2.5%" speechRate="-55%" pauseDuration="90%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="CUE">rey Cuervo</role>
+					<roleDesc sex="male" age="young" kind="human" personality="bad"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_pa_diphone"
+						pitch="20%" pitchRange="2.5%" speechRate="-45%" pauseDuration="150%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="REY">rey</role>
+					<roleDesc sex="male" age="senior" kind="human" personality="neutral"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_pa_diphone"
+						pitch="-40%" pitchRange="5%" speechRate="-40%" pauseDuration="60%"/>
+				</castItem>
+			</castList>
+		</front>
+    <body>
+      <u xml:id="utt1" who="#NAR">
+        <seg xml:id="seg11" emotion="neutral" dialogueAct="inform" sentenceType="declarative">La princesa fregona</seg>
+      </u>
+      <pause dur="PT0.5S"/>
+      <u xml:id="utt2" who="#NAR">
+        <seg xml:id="seg21" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cierto Rey tenía una hija que era una maravilla de hermosura, pero al mismo tiempo altiva y orgullosa. </seg>
+      </u>
+      <u xml:id="utt3" who="#NAR">
+        <seg xml:id="seg31" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Su padre dispuso una gran fiesta en su palacio para elegir marido a su hija. </seg>
+      </u>
+      <u xml:id="utt4" who="#NAR">
+        <seg xml:id="seg41" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Los convidados se colocaron en el salón según su rango: </seg>
+      </u>
+      <u xml:id="utt5" who="#NAR">
+        <seg xml:id="seg51" emotion="neutral" dialogueAct="inform" sentenceType="declarative">primero los reyes, después los príncipes, luego los duques, los marqueses y los condes. </seg>
+      </u>
+      <u xml:id="utt6" who="#NAR">
+        <seg xml:id="seg61" emotion="neutral" dialogueAct="inform" sentenceType="declarative">La Princesa pasó con altiva majestad por delante de todos, y todos sufrieron sus burlas. </seg>
+      </u>
+      <u xml:id="utt7" who="#NAR">
+        <seg xml:id="seg71" emotion="neutral" dialogueAct="inform" sentenceType="declarative">A un príncipe que era gordo, lo llamó tonel. </seg>
+      </u>
+      <u xml:id="utt8" who="#NAR">
+        <seg xml:id="seg81" emotion="neutral" dialogueAct="inform" sentenceType="declarative">A otro que era alto y flaco, le dijo que parecía un pendón. </seg>
+      </u>
+      <u xml:id="utt9" who="#NAR">
+        <seg xml:id="seg91" emotion="neutral" dialogueAct="inform" sentenceType="declarative">A un duque muy pequeño, le dijo que parecía un perro en cuclillas. </seg>
+      </u>
+      <u xml:id="utt10" who="#NAR">
+        <seg xml:id="seg101" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Pero de quien se burló más, fue de un Rey que tenía barba saliente y puntiaguda: </seg>
+      </u>
+      <u xml:id="utt11" who="#PRI">
+        <seg xml:id="seg111" emotion="emotion_c06_utt11_seg111" dialogueAct="inform" sentenceType="declarative">“tiene pico de cuervo” </seg>
+      </u>
+      <u xml:id="utt12" who="#NAR">
+        <seg xml:id="seg121" emotion="neutral" dialogueAct="inform" sentenceType="declarative">dijo la Princesa, mirándolo y soltando una carcajada. </seg>
+      </u>
+      <u xml:id="utt13" who="#NAR">
+        <seg xml:id="seg131" emotion="neutral" dialogueAct="inform" sentenceType="declarative">El padre de la Princesa, cuando ésta los hubo desechado a todos, </seg>
+        <seg xml:id="seg132" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt13_seg132" dialogueAct="inform" sentenceType="declarative">juró que la casaría con el primer mendigo que se presentara a las puertas de palacio. </seg>
+      </u>
+      <u xml:id="utt14" who="#NAR">
+        <seg xml:id="seg141" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Al poco rato, llegó un pobre tocando un organillo y con la ropa destrozada, y le dijo el Rey: </seg>
+      </u>
+      <u xml:id="utt15" who="#REY">
+        <seg xml:id="seg151" emotion="neutral" dialogueAct="offer" sentenceType="declarative">-Te concedo la mano de mi hija. </seg>
+      </u>
+      <u xml:id="utt16" who="#NAR">
+        <seg xml:id="seg161" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt16_seg161" dialogueAct="inform" sentenceType="declarative">En vano la Princesa lloró y rogó. </seg>
+      </u>
+      <u xml:id="utt17" who="#REY">
+        <seg xml:id="seg171" emotion="neutral" dialogueAct="inform" sentenceType="declarative">-Hice un juramento, </seg>
+      </u>
+      <u xml:id="utt18" who="#NAR">
+        <seg xml:id="seg181" emotion="neutral" dialogueAct="inform" sentenceType="declarative">dijo el Rey a la Princesa, </seg>
+      </u>
+      <u xml:id="utt19" who="#REY">
+        <seg xml:id="seg191" emotion="neutral" dialogueAct="promise" sentenceType="declarative">de castigar tu soberbia, casándote con el primer mendigo que se presentara a las puertas de palacio. </seg>
+      </u>
+      <u xml:id="utt20" who="#REY">
+        <seg xml:id="seg201" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Ya que desprecias a los Reyes más valientes y a los Príncipes más nobles, </seg>
+        <seg xml:id="seg202" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt20_seg202" dialogueAct="instruct" sentenceType="declarative">te casarás con ese mendigo. </seg>
+      </u>
+      <pause dur="PT0.3S"/>
+      <u xml:id="utt21" who="#NAR">
+        <seg xml:id="seg211" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Llamaron a un cura, y el casamiento se celebró en el acto. </seg>
+      </u>
+      <pause dur="PT0.2S"/>
+      <u xml:id="utt22" who="#NAR">
+        <seg xml:id="seg221" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Concluida la ceremonia religiosa, dijo el Rey a su hija: </seg>
+      </u>
+      <u xml:id="utt23" who="#REY">
+        <seg xml:id="seg231" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt23_seg231" dialogueAct="inform" sentenceType="declarative">-Estás aquí de más; </seg>
+      </u>
+      <u xml:id="utt24" who="#REY">
+        <seg xml:id="seg241" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt24_seg241" dialogueAct="inform" sentenceType="declarative">ya no tienes nada que hacer en palacio; </seg>
+      </u>
+      <u xml:id="utt25" who="#REY">
+        <seg xml:id="se251" emotion="neutral" dialogueAct="instruct" sentenceType="declarative">tu deber es seguir a tu marido: </seg>
+      </u>
+      <u xml:id="utt26" who="#REY">
+        <seg xml:id="seg261" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt26_seg261" dialogueAct="inform" sentenceType="declarative">conque, buen viaje. </seg>
+      </u>
+      <pause dur="PT0.4S"/>
+      <u xml:id="utt27" who="#NAR">
+        <seg xml:id="seg271" emotion="neutral" dialogueAct="inform" sentenceType="declarative">La Princesa caminaba detrás de su consorte, </seg>
+        <seg xml:id="seg272" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt27_seg272" dialogueAct="inform" sentenceType="declarative">llorando a moco tendido. </seg>
+      </u>
+      <pause dur="PT0.3S"/>
+      <u xml:id="utt28" who="#NAR">
+        <seg xml:id="seg281" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Marido y mujer pasaron por una selva magnífica.</seg>
+      </u>
+      <u xml:id="utt29" who="#PRI">
+        <seg xml:id="seg291" emotion="neutral" dialogueAct="setQuestion" sentenceType="interrogative">-¿De quién son estas riquezas? </seg>
+      </u>
+      <pause dur="PT0.2S"/>
+      <u xml:id="utt30" who="#NAR">
+        <seg xml:id="seg30" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Preguntó ella. </seg>
+      </u>
+      <u xml:id="utt31" who="#CUE">
+        <seg xml:id="seg311" emotion="neutral" dialogueAct="answer" sentenceType="declarative">-Son del Rey Cuervo. </seg>
+      </u>
+      <pause dur="PT0.2S"/>
+      <u xml:id="utt32" who="#PRI">
+        <seg xml:id="seg321" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt32_seg321" dialogueAct="inform" sentenceType="exclamative">-¡Ay qué mal hice en no casarme con él! </seg>
+      </u>
+      <pause dur="PT0.3S"/>
+      <u xml:id="utt33" who="#NAR">
+        <seg xml:id="seg331" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Poco después pasaron cerca de una población. </seg>
+      </u>
+      <u xml:id="utt34" who="#PRI">
+        <seg xml:id="seg341" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt34_seg341" dialogueAct="inform" sentenceType="declarative">-¡Hermosa población! </seg>
+      </u>
+      <u xml:id="utt35" who="#PRI">
+        <seg xml:id="seg351" emotion="neutral" dialogueAct="setQuestion" sentenceType="interrogative">¿De quién es? </seg>
+      </u>
+      <pause dur="PT0.3S"/>
+      <u xml:id="utt36" who="#CUE">
+        <seg xml:id="seg361" emotion="neutral" dialogueAct="answer" sentenceType="declarative">-Del Rey Cuervo. </seg>
+      </u>
+      <u xml:id="utt37" who="#PRI">
+        <seg xml:id="seg371" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt37_seg371" dialogueAct="setQuestion" sentenceType="exclamative">-¡Por qué no soy su esposa! </seg>
+      </u>
+      <u xml:id="utt38" who="#NAR">
+        <seg xml:id="seg381" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Dijo entre dientes la cuitada. </seg>
+      </u>
+      <u xml:id="utt39" who="#NAR">
+        <seg xml:id="seg391" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Pero el mendigo había oído todas las quejas que la bella Princesa murmuraba, </seg>
+        <seg xml:id="seg392" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt39_seg392" dialogueAct="inform" sentenceType="declarative">y le dijo con aspereza y frunciendo el ceño contrariado: </seg>
+      </u>
+      <u xml:id="utt40" who="#CUE">
+        <seg xml:id="seg401" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt40_seg401" dialogueAct="instruct" sentenceType="imperative">-Escucha, </seg>
+        <seg xml:id="seg402" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt40_seg402" dialogueAct="inform" sentenceType="declarative">no me hace gracia tanto acordarte del Rey Cuervo; </seg>
+      </u>
+      <u xml:id="utt41" who="#CUE">
+        <seg xml:id="seg411" emotion="neutral" dialogueAct="inform" sentenceType="declarative">si no le diste tu mano, </seg>
+        <seg xml:id="seg412" emotion="neutral" dialogueAct="request" sentenceType="imperative">ten paciencia. </seg>
+      </u>
+      <u xml:id="utt42" who="#CUE">
+        <seg xml:id="seg421" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Ahora soy yo tu marido, </seg>
+        <seg xml:id="seg422" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt42_seg422" dialogueAct="inform" sentenceType="declarative">y tus lamentos me desagradan mucho. </seg>
+      </u>
+      <u xml:id="utt43" who="#CUE">
+        <seg xml:id="seg431" emotion="neutral" dialogueAct="suggest" sentenceType="declarative">Harás bien en resignarte con tu suerte </seg>
+        <seg xml:id="seg432" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt43_seg432" dialogueAct="request" sentenceType="declarative">y en no fastidiarme más. </seg>
+      </u>
+      <pause dur="PT0.2S"/>
+      <u xml:id="utt44" who="#NAR">
+        <seg xml:id="seg441" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Por último, llegaron a una choza de miserable apariencia. </seg>
+      </u>
+      <u xml:id="utt45" who="#NAR">
+        <seg xml:id="seg451" emotion="neutral" dialogueAct="inform" sentenceType="declarative">El mendigo hizo alto. </seg>
+      </u>
+      <u xml:id="utt46" who="#PRI">
+        <seg xml:id="seg461" emotion="neutral" dialogueAct="setQuestion" sentenceType="interrogative">-¿Dónde estamos? </seg>
+      </u>
+      <u xml:id="utt47" who="#NAR">
+        <seg xml:id="seg471" emotion="neutral" dialogueAct="inform" sentenceType="declarative">interrogó la princesa. </seg>
+      </u>
+      <u xml:id="utt48" who="#CUE">
+        <seg xml:id="seg481" emotion="neutral" dialogueAct="answer" sentenceType="declarative">-En nuestra casa, </seg>
+      </u>
+      <u xml:id="utt49" who="#NAR">
+        <seg xml:id="seg491" emotion="neutral" dialogueAct="inform" sentenceType="declarative">respondió el mendigo; </seg>
+      </u>
+      <u xml:id="utt50" who="#CUE">
+        <seg xml:id="seg501" emotion="neutral" dialogueAct="inform" sentenceType="declarative">yo no tengo criados; </seg>
+      </u>
+      <u xml:id="utt51" who="#CUE">
+        <seg xml:id="seg511" emotion="neutral" dialogueAct="inform" sentenceType="declarative">hasta el presente me he servido a mí mismo; </seg>
+      </u>
+      <u xml:id="utt52" who="#CUE">
+        <seg xml:id="seg521" emotion="neutral" dialogueAct="inform" sentenceType="declarative">de ahora en adelante me servirá mi mujer... </seg>
+      </u>
+      <u xml:id="utt53" who="#CUE">
+        <seg xml:id="seg531" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt53_seg531" dialogueAct="instruct" sentenceType="imperative">Vaya, enciende la lumbre y pon a hervir el agua para que hagas la cena, </seg>
+        <seg xml:id="seg532" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt53_seg532" dialogueAct="inform" sentenceType="declarative">que tengo mucha hambre. </seg>
+      </u>
+      <pause dur="PT0.3S"/>
+      <u xml:id="utt54" who="#NAR">
+        <seg xml:id="seg541" emotion="neutral" dialogueAct="inform" sentenceType="declarative">La Princesa no había trabajado nunca, y no sabía ni por dónde empezar. </seg>
+      </u>
+      <u xml:id="utt55" who="#NAR">
+        <seg xml:id="seg551" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cenaron muy mal, y se acostaron. </seg>
+      </u>
+      <u xml:id="utt56" who="#NAR">
+        <seg xml:id="seg561" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Al despuntar el día, sacudió el mendigo a la Princesa, diciéndole: </seg>
+      </u>
+      <u xml:id="utt57" who="#CUE">
+        <seg xml:id="seg571" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt57_seg571" dialogueAct="instruct" sentenceType="imperative">-Levántate y barre la casa. </seg>
+      </u>
+      <pause dur="PT0.2S"/>
+      <u xml:id="utt58" who="#NAR">
+        <seg xml:id="seg581" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Al día siguiente le dijo su marido: </seg>
+      </u>
+      <u xml:id="utt59" who="#CUE">
+        <seg xml:id="seg591" emotion="neutral" dialogueAct="inform" sentenceType="declarative">-No tenemos dinero y tenemos que trabajar. </seg>
+      </u>
+      <u xml:id="utt60" who="#CUE">
+        <seg xml:id="seg601" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Yo me vuelvo a pedir limosna tocando el organillo, y tú, </seg>
+        <seg xml:id="seg602" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt60_seg602" dialogueAct="instruct" sentenceType="declarative">como eres tan inútil que no vales para nada, venderás loza ordinaria en el mercado. </seg>
+      </u>
+      <u xml:id="utt61" who="#NAR">
+        <seg xml:id="seg611" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Y ved a la Princesa, vendiendo loza en medio de la calle sentada en una mala silla. </seg>
+      </u>
+      <u xml:id="utt62" who="#NAR">
+        <seg xml:id="seg621" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt62_seg621" dialogueAct="inform" sentenceType="declarative">De pronto, apareció un húsar a caballo, </seg>
+        <seg xml:id="seg622" emotion="neutral" dialogueAct="inform" sentenceType="declarative">y estropeó toda la loza que ésta vendía. </seg>
+      </u>
+      <u xml:id="utt63" who="#CUE">
+        <seg xml:id="seg631" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt63_seg631" dialogueAct="inform" sentenceType="exclamative">-¡Ya me figuraba yo que no servirías ni aún para eso! </seg>
+      </u>
+      <u xml:id="utt64" who="#NAR">
+        <seg xml:id="seg641" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Le dijo su marido. </seg>
+      </u>
+      <u xml:id="utt65" who="#CUE">
+        <seg xml:id="seg651" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt65_seg651" dialogueAct="instruct" sentenceType="declarative">Ahora vas a palacio a fregar el suelo de la cocina. </seg>
+      </u>
+      <u xml:id="utt66" who="#CUE">
+        <seg xml:id="seg661" emotion="neutral" dialogueAct="instruct" sentenceType="declarative">Por lo pronto, servirás por la comida, pero será menester que de tu ración apartes para mí. </seg>
+      </u>
+      <pause dur="PT0.3S"/>
+      <u xml:id="utt67" who="#NAR">
+        <seg xml:id="seg671" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Y en efecto, se instaló en la cocina de palacio para dedicarse a trabajos groseros. </seg>
+      </u>
+      <u xml:id="utt68" who="#NAR">
+        <seg xml:id="seg681" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Debajo del delantal se colgó dos escudillas, atadas a la cintura, para guardar la parte de su ración destinada a su marido. </seg>
+      </u>
+      <u xml:id="utt69" who="#NAR">
+        <seg xml:id="seg691" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Tres semanas después, hubo una gran fiesta en palacio, y la moza de cocina llegó de puntillas detrás de la puerta del salón. </seg>
+      </u>
+      <u xml:id="utt70" who="#NAR">
+        <seg xml:id="seg701" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt70_seg701" dialogueAct="inform" sentenceType="declarative">De pronto, un Príncipe se dirigió a la moza de cocina, </seg>
+        <seg xml:id="seg702" emotion="neutral" dialogueAct="inform" sentenceType="declarative">y la sacó a bailar. </seg>
+      </u>
+      <u xml:id="utt71" who="#NAR">
+        <seg xml:id="seg711" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt71_seg711" dialogueAct="inform" sentenceType="exclamative">¡Cuál no sería su sorpresa cuando reconoció al Rey Cuervo! </seg>
+      </u>
+      <u xml:id="utt72" who="#NAR">
+        <seg xml:id="seg721" emotion="neutral" sentenceType="declarative">Ella quiso huir, </seg>
+        <seg xml:id="seg722" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt72_seg722" dialogueAct="inform" sentenceType="declarative">pero se le cayeron las escudillas donde guardaba la comida para su marido, y se quedó aturdida; </seg>
+      </u>
+      <u xml:id="utt73" who="#NAR">
+        <seg xml:id="seg731" emotion="neutral" dialogueAct="inform" sentenceType="declarative">los concurrentes se echaron a reír, y ella, más colorada que un tomate, </seg>
+        <seg xml:id="seg732" emotion="emotion.la_princesa_fregona.xml#emotion_c06_utt73_seg732" dialogueAct="inform" sentenceType="declarative">se puso a llorar. </seg>
+      </u>
+      <u xml:id="utt74" who="#NAR">
+        <seg xml:id="seg741" emotion="neutral" dialogueAct="inform"  sentenceType="declarative">El Rey Cuervo la consoló y le dijo: </seg>
+      </u>
+      <u xml:id="utt75" who="#CUE">
+        <seg xml:id="seg751" emotion="neutral" dialogueAct="setQuestion" sentenceType="interrogative">-¿No veis que el mendigo con quien os habéis casado soy yo mismo? </seg>
+      </u>
+      <u xml:id="utt76" who="#CUE">
+        <seg xml:id="seg761" emotion="neutral" dialogueAct="instruct" sentenceType="imperative">Escuchad: </seg>
+      </u>
+      <u xml:id="utt77" who="#CUE">
+        <seg xml:id="seg771" emotion="neutral" dialogueAct="inform" sentenceType="declarative">cuando vuestro padre hizo el juramento de casaros con el primer mendigo que llamara a sus puertas, yo que lo oí, me disfracé de mendigo; </seg>
+      </u>
+      <pause dur="PT0.2S"/>
+      <u xml:id="utt78" who="#CUE">
+        <seg xml:id="seg781" emotion="neutral" dialogueAct="inform" sentenceType="declarative">una barba postiza que me puse, y después mis propias barbas que me he dejado crecer, han ocultado a vuestros ojos la barbilla saliente que tanto os hizo reír. </seg>
+      </u>
+      <pause dur="PT0.2S"/>
+      <u xml:id="utt79" who="#CUE">
+        <seg xml:id="seg791" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Más todavía; el húsar atolondrado o borracho que destrozó vuestros cacharros, y yo que os estoy hablando, somos la misma persona. </seg>
+      </u>
+      <pause dur="PT0.2S"/>
+      <u xml:id="utt80" who="#CUE">
+        <seg xml:id="seg801" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Castigado vuestro orgullo, ahora mismo vais a ser proclamada esposa del Rey Cuervo. </seg>
+      </u>
+      <u xml:id="utt81" who="#NAR">
+        <seg xml:id="seg811" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Después entró en el salón del brazo de su marido. </seg>
+      </u>
+      <u xml:id="utt82" who="#NAR">
+        <seg xml:id="seg821" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Al día siguiente se festejó con gran pompa el enlace del Rey Cuervo, y la Princesa fue desde aquel día amable y cariñosa con todos. </seg>
+      </u>
+    </body>
+  </text>
+</TEI>
+

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emotionml version="1.0" xmlns="http://www.w3.org/2009/10/emotionml"
+	category-set="http://www.w3.org/TR/emotion-voc/xml#big6"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.w3.org/2009/10/emotionml http://www.w3.org/TR/2014/REC-emotionml-20140522/emotionml.xsd">
+	La hija del molinero
+	Había en un lugar cuyo nombre no recuerdo, un molinero que era muy pobre, pero tenía una hija hermosísima.
+	En cierta ocasión fue el molinero a hablar con el Rey, y para darse tono le dijo:
+	<emotion id="emotion_c02_utt4_seg41">
+		<category name="happiness"/>
+		- Tengo una hija que sabe hilar paja, convirtiéndola en oro.
+   </emotion>
+	El Rey dijo al molinero:
+	<emotion id="emotion_c02_utt6_seg61">
+		<category name="surprise"/>
+   	- Eso es un arte que no deja de tener su mérito; 
+   </emotion>
+	si tu hija es tan ingeniosa como dices, tráela mañana a Palacio y la someteré a una prueba.
+	Cuando la muchacha llegó, la llevó a un aposento lleno de paja, le dio una rueca y un huso, y le dijo:
+	- Ponte al trabajo, 
+	<emotion id="emotion_c02_utt9_seg92">
+		<category name="anger"/>
+		y si no hilas toda esa paja, convirtiéndola en oro, creeré que os habéis querido burlar de mí, y a ti y a tu padre os haré ahorcar.
+	</emotion>
+	Luego cerró el cuarto y la dejó sola.
+	<emotion id="emotion_c02_utt11_seg111">
+		<category name="sadness"/>
+		La pobre muchacha no sabía qué hacer;
+	</emotion>
+	no comprendía cómo había de arreglárselas para hilar la paja convirtiéndola en oro,
+	<emotion id="emotion_c02_utt12_seg122">
+		<category name="fear"/>
+		y cada vez tenía más miedo, 
+	</emotion>
+	<emotion id="emotion_c02_utt12_seg123">
+		<category name="sadness"/>
+		hasta que por fin se echó a llorar.
+	</emotion>
+	<emotion id="emotion_c02_utt13_seg131">
+		<category name="surprise"/>
+		Entonces se abrió la puerta de repente,
+	</emotion>
+	 y entró un hombrecillo, que dijo:
+	- Buenas noches. ¿Por qué lloras tanto?
+	<emotion id="emotion_c02_utt16_seg161">
+		<category name="sadness"/>
+	   - ¡Ay! 
+	</emotion>
+	contestó la muchacha:
+	
+	Tengo el compromiso de hilar paja y transformarla en oro, 
+	<emotion id="emotion_c02_utt18_seg182">
+		<category name="sadness"/>
+		y no sé cómo arreglarme.
+	</emotion>
+	Y dijo el hombrecillo:
+	- ¿Qué me das si yo te saco del apuro?
+	- Mi collar, dijo la joven.
+	El hombrecillo tomó el collar, y, sentándose, cogió la rueca, y a las pocas vueltas se llenaba el huso de oro. Entonces ponía otro nuevo, y así continuó hasta por la mañana, en que la paja se acabó, y todos los husos se llenaron de oro.	
+		Al amanecer vino el Rey, 
+  	<emotion id="emotion_c02_utt25_seg252">
+  		<category name="surprise"/>	
+		y al ver tanto oro, se maravilló; 
+	</emotion>
+	<emotion id="emotion_c02_utt26_seg261">
+		<category name="anger"/>
+		pero era extremadamente avariento y deseaba todavía más oro.
+	</emotion>
+	Llevó a la joven a otro aposento lleno de paja, mandándole hilarla toda en una noche, si quería conservar la vida.
+	La joven, no sabiendo qué hacer, 
+	<emotion id="emotion_c02_utt28_seg282">
+		<category name="sadness"/>
+		empezó a llorar.
+	</emotion>
+	<emotion id="emotion_c02_utt29_seg291">
+		<category name="surprise"/>
+	Entonces se abrió de nuevo la puerta, 
+	</emotion>
+	y el hombrecillo apareció y dijo:
+	- ¿Qué me das si te convierto la paja en oro?
+	-Mi sortija, contestó la joven.
+	El hombrecillo tomó la sortija, empezó de nuevo a dar vueltas a la rueca, y por la mañana toda la paja era oro hilado.
+	<emotion id="emotion_c02_utt34_seg341">
+		<category name="happiness"/>
+		El Rey se alegró sobremanera a la vista de tanto oro; 
+	</emotion>
+	<emotion id="emotion_c02_utt35_seg351">
+		<category name="anger"/>
+		pero aún deseaba más, y mandó llevar a la joven a otro aposento más grande, lleno de paja, diciéndole:
+	</emotion>
+	- Si la hilas toda esta noche, serás mi mujer. ¿Qué importa que sea hija de un molinero? Pensaba; 
+	<emotion id="emotion_c02_utt39_seg391">
+		<category name="happiness"/>
+		una mujer más rica no la he de encontrar en el mundo.
+	</emotion>
+	Cuando la joven se quedó sola, vino el hombrecillo por tercera vez, y dijo:
+	- ¿Qué me das si te hilo la paja también esta vez?
+	<emotion id="emotion_c02_utt42_seg421">
+		<category name="sadness"/>
+		- Ya no tengo nada que darte, 
+	</emotion>
+		contestó la joven.
+	- Entonces, prométeme tu primer hijo cuando seas Reina
+	<emotion id="emotion_c02_utt45_seg451">
+		<category name="sadness"/>	
+		- Dios sabe si llegaré a tenerlo, 
+	</emotion>
+	pensaba la joven; y como no sabía qué hacer, prometió al hombrecillo lo que le pedía, y éste a cambio le hiló otra vez toda la paja, haciéndola oro.
+	Cuando el Rey entró por la mañana y vio satisfecho su deseo, se casó con la joven,
+	<emotion id="emotion_c02_utt48_seg482">
+		<category name="happiness"/>
+		y la hermosa hija del molinero fue Reina.
+	</emotion>
+	<emotion id="emotion_c02_utt49_seg491">
+		<category name="happiness"/>
+		Al año, dio a luz a un niño hermoso. 
+	</emotion>	
+	Ya no se acordaba del hombrecillo; 
+	<emotion id="emotion_c02_utt51_seg511">
+		<category name="surprise"/>
+		pero entró éste de pronto en el aposento y dijo:
+	</emotion>
+	- Vengo a que me cumplas lo que me has prometido.
+	<emotion id="emotion_c02_utt53_seg531">
+		<category name="fear"/>
+		La Reina se asustó y ofreció al hombrecillo todas las riquezas del reino si le dejaba el niño; 
+	</emotion>	
+	pero el hombrecillo dijo:	
+	<emotion id="emotion_c02_utt55_seg551">
+		<category name="anger"/>
+		- No; 
+	</emotion>	
+	prefiero un ser vivo a todos los tesoros del mundo.
+	<emotion id="emotion_c02_utt57_seg571">
+		<category name="sadness"/>
+		Entonces la Reina empezó a llorar tanto, 
+	</emotion>
+	que el hombrecillo se compadeció de ella.
+	- Tres días te doy de plazo; si para entonces sabes mi nombre, te dejaré tu hijo.
+	Entonces la Reina, durante toda la noche, trató de recordar todos los nombres que había oído, y mandó un mensajero por el país para que se enterase de todos los nombres que allí se conocían.
+	Cuando a la mañana siguiente vino el hombrecillo, le dijo ella todos los nombres que sabía, empezando por Gaspar, Melchor y Baltasar: 
+	<emotion id="emotion_c02_utt62_seg621">
+		<category name="sadness"/>
+		pero a cada palabra decía el hombrecillo:
+	</emotion>
+  <emotion id="emotion_c02_utt63_seg631">
+  	<category name="happiness"/>
+	  - No me llamo de ese modo.
+	</emotion>
+	Al segundo día mandó preguntar por toda la vecindad cómo se llamaba la gente, y dijo al hombrecillo los nombres más raros; 
+	<emotion id="emotion_c02_utt65_seg651">
+		<category name="sadness"/>
+		pero siempre le contestaba:
+	</emotion>
+	<emotion id="emotion_c02_utt66_seg661">
+		<category name="happiness"/>
+	  - No me llamo así.
+	</emotion>
+	Al tercer día vino el mensajero y dijo:
+	<emotion id="emotion_c02_utt68_seg681">
+		<category name="sadness"/>
+		- Nombre nuevo no he podido averiguar ninguno, 
+	</emotion>
+		pero al llegar a una montaña muy alta, junto a un bosque sombrío, en donde el zorro y la liebre se dan las buenas noches, vi una casita pequeña, y delante de ella una hoguera: 
+	alrededor de ésta bailaba un hombrecillo muy ridículo, y gritaba:
+	<emotion id="emotion_c02_utt70_seg701">
+		<category name="happiness"/>
+		- Hoy guiso al hijo de la Reina y mañana me lo trago: 
+	</emotion>	
+	¡no quiero que nadie sepa que me llamo Sin Nombre!
+	<emotion id="emotion_c02_utt72_seg721">
+		<category name="happiness"/>
+		Figuraos que contenta se puso la Reina al oír el nombre; 
+	</emotion>
+	y cuando poco después entró el hombrecillo y dijo:
+	- Pues bien, señora Reina: ¿cómo me llamo?
+	Contestó ella:
+	<emotion id="emotion_c02_utt77_seg771">
+		<category name="happiness"/>
+		- Te llamas Sin Nombre.
+	</emotion>
+	<emotion id="emotion_c02_utt78_seg781">
+		<category name="anger"/>
+		- ¡El demonio te lo debe haber dicho!
+	</emotion>
+	<emotion id="emotion_c02_utt79_seg791">
+		<category name="anger"/>
+		Gritó el hombrecillo, dando con el pie derecho tan fuerte en el suelo, que se hundió hasta la mitad del cuerpo.
+	</emotion>
+	<emotion id="emotion_c02_utt80_seg801">
+		<category name="anger"/>
+		Luego, lleno de rabia, agarró con las dos manos su pie izquierdo, y se partió por la mitad.
+	</emotion>
+	Desde entonces no se le ha vuelto a ver.
+</emotionml>
+

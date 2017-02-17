@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emotionml version="1.0" xmlns="http://www.w3.org/2009/10/emotionml"
+  category-set="http://www.w3.org/TR/emotion-voc/xml#big6"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.w3.org/2009/10/emotionml http://www.w3.org/TR/2014/REC-emotionml-20140522/emotionml.xsd">
+	La rana encantada
+  En unos tiempos que han pasado para no volver, y en los que se cumplían todavía los deseos, vivía un Rey, cuyas hijas eran todas muy hermosas: pero la menor lo era tanto, que el mismo sol, que tantas caras bonitas ha visto, se maravillaba cada vez que iluminaba su rostro. Cerca del castillo real había un bosque grande y sombrío, y en éste, a la sombra de un viejo tilo, un pozo. Cuando hacía mucho calor, iba la hija del Rey al bosque, se sentaba a la orilla del fresco pozo, y cuando se aburría, cogía una bola de oro, la tiraba a lo alto, y la volvía a coger. Era éste el juego que más la divertía.
+  Sucedió una vez que al tirar a lo alto la bola de oro, no cayó en sus manos, sino en el suelo, y de allí rodó al agua. Siguiola la Princesa con los ojos, pero la bola desapareció, y el pozo era tan hondo, que no se le veía el fin. 
+  <emotion id="emotion_c03_utt9_seg91">
+    <category name="sadness"/>
+   	Entonces, la hermosa niña comenzó a llorar, y lloraba cada vez más alto, sin poderse contener.
+  </emotion>  
+  Cuando se quejaba con más amargura, oyó una voz que le dijo:
+  -¿Qué tienes, Princesita, que gritas de modo que enterneces las piedras?
+  Miró la niña en derredor para ver de dónde salía la voz y vio una rana que sacaba del agua su asquerosa cabeza.
+  <emotion id="emotion_c03_utt13_seg131">
+    <category name="surprise"/>
+  	-¡Ah! ¿Eres tú, vieja azota-agua?
+  </emotion>
+  <emotion id="emotion_c03_utt15_seg151">
+    <category name="sadness"/>
+    Lloro por mi bola de oro, que se me ha caído en el pozo.
+  </emotion>
+  <emotion id="emotion_c03_utt16_seg161">
+    <category name="anger"/>
+    -Cállate, y no pongas motes, 
+  </emotion>  
+  contestó la rana: yo puedo ayudarte; pero, ¿qué me das, si te saco tu juguete?
+  -Lo que quieras , querida rana, dijo la niña; mis vestidos, mis perlas y piedras preciosas, y hasta la corona que llevo puesta.
+  La rana contestó:
+  -No quiero tus vestidos, ni tus perlas, ni tus piedras preciosas, ni tu corona de oro: pero si quieres amarme y tenerme contigo como amiga y compañera en tus juegos, sentarme a tu mesa, darme de comer en tu plato de oro, beber en tu copa y acostarme en tu lecho, bajaré al pozo y te subiré la bola de oro.
+  <emotion id="emotion_c03_utt26_seg261">
+    <category name="anger"/>
+  	-¡Ah! 
+  </emotion>
+  dijo ella:
+  <emotion id="emotion_c03_utt28_seg281">
+    <category name="happiness"/>
+  	te prometo todo lo que quieras 
+  </emotion>
+  <emotion id="emotion_c03_utt28_seg282">
+    <category name="happiness"/>
+	si me devuelves la bola.
+  </emotion>
+  Pero pensaba: 
+  <emotion id="emotion_c03_utt30_seg301">
+    <category name="surprise"/>
+	¡Qué cosas tan extrañas quiere esa infeliz rana!
+  </emotion>
+  ¡Puede cantar en el agua entre sus iguales; 
+  <emotion id="emotion_c03_utt31_seg312">
+    <category name="surprise"/>
+  	pero no puede ser compañera de ningún hombre!
+  </emotion>
+  La rana, cuando se le prometió lo que pedía, hundió la cabeza en el agua, bajo al fondo, y poco después apareció de nuevo, llevando en la boca la bola, que depositó en la hierba.
+  La hija del Rey, 
+  <emotion id="emotion_c03_utt33_seg332">
+    <category name="happiness"/>
+    llena de alegría en cuanto vio su hermoso juguete, 
+  </emotion>
+  lo cogió y echó a correr con él, saltando.
+  <emotion id="emotion_c03_utt34_seg341">
+    <category name="anger"/>
+	-¡Espérate, espérate! 
+  </emotion>
+  Le gritó la rana; 
+  <emotion id="emotion_c03_utt36_seg361">
+    <category name="anger"/>
+	llévame contigo; 
+  </emotion>
+  yo no puedo correr como tú lo haces.
+  Pero de nada la sirvió gritar tras ella lo más alto que pudo, porque la Princesa no le hacía caso, y corría a su palacio. Muy pronto se olvidó de la pobre rana, que tuvo que volverse a su pozo con un humor endiablado.
+  Al otro día, estaba la joven sentada a la mesa con el Rey, su padre, y los cortesanos, y al comer en su plato de oro, oyó subir una cosa por la escalera de mármol. Cuando aquella cosa llegó arriba, llamó a la puerta, y exclamó:
+  <emotion id="emotion_c03_utt41_seg411">
+    <category name="anger"/>
+	-Hija menor del Rey, ábreme.
+  </emotion>
+  Se levantó la Princesa y quiso ver quién estaba fuera; pero al abrir, 
+  <emotion id="emotion_c03_utt42_seg422">
+    <category name="surprise"/>
+    vio a la rana. 
+  </emotion>
+  Cerró la puerta corriendo 
+  <emotion id="emotion_c03_utt43_seg432">
+    <category name="fear"/>
+  	y se sentó de nuevo a la mesa con mucho miedo. 
+  </emotion>
+  Notando el Rey que el corazón de la niña latía fuertemente, le dijo:
+  -Hija mía, ¿qué tienes? ¿Hay a la puerta algún gigante que viene por ti?
+  -¡Ah, no! Contestó, 
+  <emotion id="emotion_c03_utt49_seg491">
+    <category name="anger"/>
+    no es ningún gigante, sino una rana muy fea. 
+  </emotion>
+  -¿Y qué quiere, qué espera de ti esa rana?
+  <emotion id="emotion_c03_utt51_seg511">
+    <category name="sadness"/>
+    -¡Ay, amado padre! 
+  </emotion>
+  Cuando estaba ayer jugando en el bosque, junto al pozo, se me cayó al agua mi bola de oro. Y como lloraba, la rana me la subió, después de haberme exigido promesa de que sería mi compañera; 
+  <emotion id="emotion_c03_utt54_seg541">
+    <category name="surprise"/>
+	pero nunca creí que pudiera salir del agua. 
+  </emotion>
+  Ahora ha salido, ha llegado hasta aquí, y contra mi gusto, se empeña en llegar a este sitio.
+  Entretanto llamaba la rana por segunda vez, diciendo:
+  <emotion id="emotion_c03_utt57_seg571">
+    <category name="anger"/>
+  -Hija menor del Rey, ábreme: 
+  </emotion>
+  ¿no sabes lo que me dijiste ayer junto a la fría agua del pozo? 
+  <emotion id="emotion_c03_utt59_seg591">
+    <category name="anger"/>
+	Hija menor del Rey, ábreme.
+  </emotion>  
+  Entonces dijo el Rey:
+  <emotion id="emotion_c03_utt61_seg611">
+    <category name="anger"/>
+	-Debes cumplir lo que has prometido; ve, y abre.
+  </emotion>
+  La niña fue y abrió la puerta, y entró la rana, yendo siempre junto a sus pies hasta llegar a su silla. Se sentó en el suelo, y dijo:
+  -Levántame.
+  La niña vaciló hasta que lo mandó el Rey, su padre. La rana saltó de la silla a la mesa, y dijo a la Princesa:
+  -Ahora acércame tu plato de oro para que comamos juntas.
+  Hízolo en seguida, aunque se conocía que de mala gana. La rana comió mucho, pero la niña no podía pasar bocado. Al fin dijo la rana:
+  -Estoy harta y cansada; llévame a tu alcoba, prepara tu cama de seda, y allí dormiremos.
+  <emotion id="emotion_c03_utt73_seg731">
+    <category name="sadness"/>
+    La Princesa comenzó a llorar, 
+  </emotion>
+  <emotion id="emotion_c03_utt73_seg732">
+    <category name="fear"/>
+    demostrando gran miedo a la fría rana que quería dormir en su hermoso y limpio lecho. 
+  </emotion>
+  Pero el Rey se incomodó muchísimo, y dijo a su hija:
+  <emotion id="emotion_c03_utt75_seg751">
+    <category name="anger"/>
+    -No obras bien despreciando de ese modo a la que te ayudó cuando necesitaste su auxilio.
+  </emotion>
+  Entonces la Princesita cogió a la rana con dos dedos, la llevó y la puso en un rincón. Pero en cuanto estuvo en la cama, se acercó la rana arrastrando, y le dijo:
+  -Estoy cansada; quiero dormir tan bien como tú; 
+  <emotion id="emotion_c03_utt80_seg801">
+    <category name="anger"/>
+    súbeme, 
+  </emotion>
+  <emotion id="emotion_c03_utt80_seg802">
+    <category name="anger"/>
+    o se lo digo a tu padre.
+  </emotion>
+  La Princesa se incomodó mucho, la cogió y la tiró contra la pared con todas sus fuerzas, diciendo:
+  <emotion id="emotion_c03_utt82_seg821">
+    <category name="anger"/>
+    -Ahora descansarás de una vez, rana asquerosa.
+  </emotion>
+  Pero cuando cayó al suelo, la rana se convirtió en un joven Príncipe, con ojos hermosos, facciones agradables y gallarda apostura, que fue desde entonces, por la voluntad de su padre, su querido compañero y esposo, y le contó que había sido encantado por una mala hechicera, y que nadie podía sacarle del pozo sino ella; que al día siguiente se marcharían a su país juntos. A la mañana siguiente, cuando el sol les despertó, se metieron en un coche tirado por ocho caballos blancos, que llevaban plumas blancas en la cabeza y tenían por riendas cadenas de oro; detrás iba el criado del joven Rey, que era el fiel Baltasar. Éste se había afligido tanto cuando su señor fue convertido en rana, que se había puesto tres barras de hierro encima del corazón para que no saltase de dolor y de tristeza. Pero el joven Rey debía hacer el viaje en su coche; el fiel Baltasar subió a los dos, se colocó detrás de ellos e iba lleno de alegría por la salvación de su amo. Cuando habían andado un poco de camino, oyó el hijo del Rey una cosa que sonaba detrás, como si se rompiera algo. Entonces se volvió, y dijo:
+  -Baltasar, ¿se ha roto el coche?
+  -No, señor; no se ha roto el coche, sino una barra de las que puse sobre mi corazón cuando estuvisteis en el pozo convertido en rana.
+  Dos veces más se oyó el mismo ruido en el camino.
+  El hijo del Rey creía siempre que se rompía el coche, y eran las barras que saltaban del corazón del fiel Baltasar, porque su señor estaba desencantado 
+  <emotion id="emotion_c03_utt95_seg952">
+    <category name="happiness"/>
+	y era feliz.
+  </emotion>
+  Cuando los dos esposos llegaron a su nueva residencia, la joven la encontró tan lujosa que le pareció una maravilla. Allí, completamente dichosos, vivieron largos años.
+</emotionml>
+

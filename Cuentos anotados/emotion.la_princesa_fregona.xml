@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emotionml version="1.0" xmlns="http://www.w3.org/2009/10/emotionml"
+	category-set="http://www.w3.org/TR/emotion-voc/xml#big6"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.w3.org/2009/10/emotionml http://www.w3.org/TR/2014/REC-emotionml-20140522/emotionml.xsd">
+	La princesa fregona
+  Cierto Rey tenía una hija que era una maravilla de hermosura, pero al mismo tiempo altiva y orgullosa.
+  Su padre dispuso una gran fiesta en su palacio para elegir marido a su hija.
+  Los convidados se colocaron en el salón según su rango: primero los reyes, después los príncipes, luego los duques, los marqueses y los condes.
+  La Princesa pasó con altiva majestad por delante de todos, y todos sufrieron sus burlas.
+  A un príncipe que era gordo, lo llamó tonel.
+  A otro que era alto y flaco, le dijo que parecía un pendón.
+  A un duque muy pequeño, le dijo que parecía un perro en cuclillas.
+  Pero de quien se burlo más fue de un Rey que tenía barba saliente y puntiaguda: 
+  <emotion id="emotion_c06_utt11_seg111">
+    <category name="happiness"/>
+   	“tiene pico de cuervo”,
+  </emotion>
+  dijo la Princesa, mirándolo y soltando una carcajada.
+  El padre de la Princesa, cuando ésta los hubo desechado a todos, 
+  <emotion id="emotion_c06_utt13_seg132">
+    <category name="anger"/>
+   	juró que la casaría con el primer mendigo que se presentara a las puertas de palacio. 
+   </emotion>
+  Al poco rato llegó un pobre tocando un organillo y con la ropa destrozada, y le dijo el Rey:
+  -Te concedo la mano de mi hija.
+  <emotion id="emotion_c06_utt16_seg161">
+    <category name="sadness"/>
+		En vano la Princesa lloró y rogó.
+  </emotion>
+  -Hice un juramento, dijo el Rey a la Princesa, de castigar tu soberbia casándote con el primer mendigo que se presentara a las puertas de palacio. Ya que desprecias a los Reyes más valientes y a los Príncipes más nobles, 
+  <emotion id="emotion_c06_utt20_seg202">
+    <category name="anger"/>
+    te casarás con ese mendigo.
+  </emotion>
+  Llamaron a un cura, y el casamiento se celebró en el acto.
+  Concluida la ceremonia religiosa, dijo el Rey a su hija:
+  <emotion id="emotion_c06_utt23_seg231">
+    <category name="anger"/>
+    -Estás aquí de más; 
+  </emotion>
+  <emotion id="emotion_c06_utt24_seg241">
+    <category name="anger"/>
+    ya no tienes nada que hacer en palacio; 
+  </emotion>
+  tu deber es seguir a tu marido: 
+  <emotion id="emotion_c06_utt26_seg261">
+    <category name="anger"/>
+    conque, buen viaje.
+  </emotion>
+  La Princesa caminaba detrás de su consorte 
+  <emotion id="emotion_c06_utt27_seg272">
+    <category name="sadness"/>
+    llorando a moco tendido. 
+  </emotion>
+  Marido y mujer pasaron por una selva magnífica.
+  -¿De quién son estas riquezas? Preguntó ella.
+  -Son del Rey Cuervo.
+  <emotion id="emotion_c06_utt32_seg321">
+    <category name="sadness"/>
+    -¡Ay qué mal hice en no casarme con él!
+  </emotion>
+  Poco después pasaron cerca de una población.
+  <emotion id="emotion_c06_utt34_seg341">
+    <category name="happiness"/>
+    -¡Hermosa población! 
+  </emotion>
+  ¿De quién es?
+  -Del Rey Cuervo.
+  <emotion id="emotion_c06_utt37_seg371">
+    <category name="sadness"/>
+    -¡Por qué no soy su esposa! 
+  </emotion>
+  Dijo entre dientes la cuitada.
+  Pero el mendigo había oído todas las quejas que la bella Princesa murmuraba, 
+  <emotion id="emotion_c06_utt39_seg392">
+    <category name="anger"/>
+    y le dijo con aspereza y frunciendo el ceño contrariado:
+  </emotion>
+  <emotion id="emotion_c06_utt40_seg401">
+    <category name="anger"/>
+    -Escucha, 
+  </emotion>
+  <emotion id="emotion_c06_utt40_seg402">
+    <category name="anger"/>
+    no me hace gracia tanto acordarte del Rey Cuervo; 
+  </emotion>
+  si no le diste tu mano, ten paciencia. Ahora soy yo tu marido, 
+  <emotion id="emotion_c06_utt42_seg422">
+    <category name="anger"/>
+    y tus lamentos me desagradan mucho. 
+  </emotion>
+  Harás bien en resignarte con tu suerte 
+  <emotion id="emotion_c06_utt43_seg432">
+    <category name="anger"/>
+    y en no fastidiarme más.
+  </emotion>
+  Por último, llegaron a una choza de miserable apariencia. El mendigo hizo alto.
+  -¿Dónde estamos? interrogó la princesa.
+  -En nuestra casa, respondió el mendigo; yo no tengo criados; hasta el presente me he servido a mi mismo; de ahora en adelante me servirá mi mujer... 
+  <emotion id="emotion_c06_utt53_seg531">
+    <category name="anger"/>
+    Vaya, enciende la lumbre y pon a hervir el agua para que hagas la cena, 
+  </emotion>
+  <emotion id="emotion_c06_utt53_seg532">
+    <category name="anger"/>
+    que tengo mucha hambre.
+  </emotion>
+  La Princesa no había trabajado nunca, y no sabía ni por dónde empezar.
+  Cenaron muy mal, y se acostaron.
+  Al despuntar el día, sacudió el mendigo a la Princesa, diciéndole:
+  <emotion id="emotion_c06_utt57_seg571">
+    <category name="anger"/>
+    -Levántate y barre la casa.
+  </emotion>
+  Al día siguiente le dijo su marido:
+  -No tenemos dinero y tenemos que trabajar. Yo, me vuelvo a pedir limosna tocando el organillo, y tú, 
+  <emotion id="emotion_c06_utt60_seg602">
+    <category name="anger"/>
+    como eres tan inútil que no vales para nada, venderás loza ordinaria en el mercado.
+  </emotion>
+  Y ved a la Princesa venciendo loza en medio de la calle sentada en una mala silla.
+  <emotion id="emotion_c06_utt62_seg621">
+    <category name="surprise"/>
+    De pronto, apareció un húsar a caballo, 
+  </emotion>
+  y estropeó toda la loza que ésta vendía.
+  <emotion id="emotion_c06_utt63_seg631">
+    <category name="anger"/>
+    -¡Ya me figuraba yo que no servirías ni aún para eso! 
+  </emotion>
+  Le dijo su marido. 
+  <emotion id="emotion_c06_utt65_seg651">
+    <category name="anger"/>
+    Ahora vas a palacio a fregar el suelo de la cocina. 
+  </emotion>
+  Por lo pronto, servirás por la comida, pero será menester que de tu ración apartes para mí.
+  Y, en efecto, se instaló en la cocina de palacio para dedicarse a trabajos groseros.
+  Debajo del delantal se colgó dos escudillas, atadas a la cintura, para guardar la parte de su ración destinada a su marido.
+  Tres semanas después hubo una gran fiesta en palacio, y la moza de cocina llegó de puntillas detrás de la puerta del salón.
+  <emotion id="emotion_c06_utt70_seg701">
+    <category name="surprise"/>
+    De pronto un Príncipe se dirigió a la moza de cocina, y la sacó a bailar. 
+  </emotion>
+  <emotion id="emotion_c06_utt71_seg711">
+    <category name="surprise"/>
+    ¡Cuál no sería su sorpresa cuando reconoció al Rey Cuervo!
+  </emotion>
+  Ella quiso huir,
+  <emotion id="emotion_c06_utt72_seg722">
+    <category name="sadness"/>
+    pero se le cayeron las escudillas donde guardaba la comida para su marido, y se quedó aturdida; 
+  </emotion>  
+    los concurrentes se echaron a reír, y ella, más colorada que un tomate, 
+  <emotion id="emotion_c06_utt73_seg732">
+    <category name="sadness"/>
+    se puso a llorar.
+  </emotion>
+  El Rey Cuervo la consoló y le dijo:
+  -¿No veis que el mendigo con quien os habéis casado soy yo mismo?... Escuchad: cuando vuestro padre hizo el juramento de casaros con el primer mendigo que llamara a sus puertas, yo, que lo oí, me disfracé de mendigo; una barba postiza que me puse, y después mis propias barbas que me he dejado crecer, han ocultado a vuestros ojos la barbilla saliente que tanto os hizo reír. Más todavía; el húsar atolondrado o borracho que destrozó vuestros cacharros, y yo que os estoy hablando, somos la misma persona.
+  Castigado vuestro orgullo, ahora mismo vais a ser proclamada esposa del Rey Cuervo.
+  Después entró en el salón del brazo de su marido.
+  Al día siguiente se festejó con gran pompa el enlace del Rey Cuervo,y la Princesa fue desde aquel día amable y cariñosa con todos.
+</emotionml>
+

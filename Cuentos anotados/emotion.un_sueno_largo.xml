@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emotionml version="1.0" xmlns="http://www.w3.org/2009/10/emotionml"
+  category-set="http://www.w3.org/TR/emotion-voc/xml#big6"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.w3.org/2009/10/emotionml http://www.w3.org/TR/2014/REC-emotionml-20140522/emotionml.xsd">
+	Un sueño largo
+  Hace mucho tiempo vivieron un Rey y una Reina, muy buenos ambos, pero que tenían la desgracia de no tener hijos, por lo que no dejaban de decir a cada instante:
+  <emotion id="emotion_c07_utt3_seg31">
+    <category name="happiness"/>
+   	-¡Qué felices seríamos si tuviéramos un hijo!
+  </emotion>
+  <emotion id="emotion_c07_utt4_seg41">
+    <category name="sadness"/>
+    Pero no les nacía ninguno.
+  </emotion>
+  Una vez, estando la Reina bañándose, salió a tierra una rana, la cual dijo:
+  - Antes de un año verás cumplido tu deseo, y tendrás una hija.
+  Sucedió lo que había predicho la rana, y la Reina dio a luz una niña tan hermosa, que el Rey, lleno de alegría, no cabía en sí, y dispuso una suntuosa fiesta, a la cual convidó, no solo a sus parientes, amigos y conocidos, sino también a las hadas, para que fuesen benignas con la hija. Había trece hadas en el reino, pero como el Rey sólo tenía doce platos de oro en que pudieran comer, una de ellas tuvo que quedarse en casa. Celebróse el banquete con gran pompa, y al terminarse, regaló a la niña cada una de las hadas un don milagroso: una le dio virtud, otra hermosura, la tercera riquezas, y así le regalaron cuanto se puede desear en el mundo. Apenas había hablado la undécima, 
+  <emotion id="emotion_c07_utt11_seg112">
+    <category name="surprise"/>
+    entró de repente la decimotercera, 
+  </emotion>
+  deseosa de vengarse, porque no la habían convidado a la comida, y sin saludar a nadie, dijo en alta voz:
+  <emotion id="emotion_c07_utt12_seg121">
+    <category name="anger"/>
+    - La princesa se herirá con un huso al cumplir los quince años, y caerá muerta.
+  </emotion>
+  Y salió de la sala sin decir otra palabra. 
+  <emotion id="emotion_c07_utt14_seg141">
+    <category name="fear"/>
+    Asustáronse todos los presentes; 
+  </emotion>
+  pero se adelantó el hada duodécima, que no había hecho aún su regalo, y no pudiendo evitar el mal que había predicho su compañera, procuró atenuarlo.
+  -La Princesa, dijo, no morirá, sino que caerá en profundo sueño durante un siglo, y transcurrido este tiempo volverá a despertarse.
+  El Rey, que quería librar a su querida hija de tan gran desgracia, dio orden de que quemasen los husos de todo el reino: la joven alcanzó todas las gracias que le habían concedido las hadas, y así era muy hermosa, amable, modesta y entendida, de manera que cuantos la veían quedaban prendados de ella.
+  Al llegar el día en que cumplía los quince años, la joven se hallaba sola en el palacio, por haber salido el Rey y la Reina. Comenzó a recorrer aquella casa y vio una tras otra todas las habitaciones, hasta que llegó a una torre muy elevada. Subió una estrecha escalera de caracol, y llegó a una pequeña puerta. En la cerradura estaba puesta la llave, mohosa, y al darle una vuelta se abrió la puerta y vio en un cuartito una anciana con un huso, hilando muy deprisa su lino. Aquella anciana era el hada decimotercera.
+  - Buenos días, abuelita, dijo la Princesa. ¿Qué haces aquí?
+  - Estoy hilando, contestó la anciana, bajando la cabeza.
+  - ¿Qué es eso que se mueve con tanta ligereza? continuó diciendo la niña.
+  Cogió el huso, y quiso hilar; pero apenas lo había tocado, 
+  <emotion id="emotion_c07_utt33_seg332">
+    <category name="surprise"/>
+    se realizó la profecía, y se pinchó con él en un dedo.
+  </emotion>
+  En el momento en que sintió el pinchazo, cayó como aniquilada por un rayo, y se durmió profundamente; y este sueño se esparció por todo el palacio. El Rey y la Reina, que habían entrado en aquel mismo momento, cayeron dormidos, y con ellos toda la corte.
+  También se durmieron los caballos en la cuadra, los perros en el patio, las palomas en el tejado, las moscas en la pared, y hasta el fuego que ardía, en el fogón, cesó de arder, y el guisado dejó de cocer, y el cocinero y los pinches se durmieron, por último, para que no quedase nadie despierto. Cesó también el viento, y no volvieron a moverse ni aun las hojas de los árboles que estaban delante del palacio.
+  Andando el tiempo brotó y creció un zarzal en torno de aquel edificio, que haciéndose más grande cada día, lo cercó por completo, de manera que ni aun la bandera se veía. En el país se contaba la leyenda de la hermosa Flor Celeste dormida, pues así llamaron a la Princesa, y de cuando en cuando venían algunos Príncipes que querían penetrar a través de la zarza en el palacio; pero en vano, porque las espinas se agarraban a ellos como si tuvieran manos, y los jóvenes quedaban presos en ellas, y no pudiendo soltarse, morían allí de hambre y de desesperación.
+  Otros, más afortunados, escapaban; pero tan mal heridos, que no les quedaba gana de volver a intentar de nuevo la aventura.
+  Transcurridos muchos años, llegó un Príncipe a aquel país y oyó contar a un anciano la leyenda de aquella zarza, diciendo que detrás de ella había un palacio, en el que dormía desde el siglo anterior una hermosa Princesa, llamada Flor Celeste, y que con ella estaban dormidos el Rey, la Reina y toda la corte.
+  Añadió haber oído contar a su abuelo que muchos Príncipes habían tratado ya de atravesar el zarzal, pero que no lo habían podido conseguir, y habían quedado muertos o mal heridos.
+  Entonces dijo el joven:
+  -Yo no tengo miedo, y he de ver a la bella Flor Celeste.
+  El buen viejo quiso disuadirle; pero viendo que nada conseguía, le dejó entregarse a su suerte.
+  Precisamente ya habían transcurrido los cien años y llegado el día en el cual debía despertar Flor Celeste.
+  Cuando se acercó el Príncipe a la zarza, la halló convertida en hermosas rosas, que, abriéndose por sí solas, le dejaron pasar, cerrándose tras él.
+  Llegó al patio y a la cuadra, y vio dormidos a los perros y caballos; miró al tejado, y vio a las palomas con la cabeza, debajo de las alas, y cuando entró en el edificio, notó que las moscas estaban dormidas en las paredes, el cocinero se hallaba en la cocina en actitud de llamar a los pinches, y la criada cerca de un gallo, que parecía preparada a desplumar.
+  Un poco más lejos vio en un salón a toda la corte dormida, y al Rey y a la Reina durmiendo en su trono.
+  Siguió el Príncipe adelante, y en una rica estancia, tapizada de brillantes estrellas de oro, se ofreció a los atónitos ojos del doncel, acostada en suntuoso lecho de damasquinadas colgaduras, una joven tan asombrosamente hermosa, que el Príncipe, extasiado, se postró de rodillas ante ella y la besó en una de sus manos.
+  <emotion id="emotion_c07_utt56_seg561">
+    <category name="surprise"/>
+    Al punto quedó desecho el encanto.
+  </emotion>
+  <emotion id="emotion_c07_utt57_seg571">
+    <category name="happiness"/>
+    La Princesa despertó, abrió los ojos, sonrió dulcemente, y se incorporó en el lecho.
+  </emotion>
+  Todo el palacio se fue animando, y libres todos del sueño que les había sorprendido, cada cual se dedicó a sus labores ordinarias.
+  El Rey, la Reina y los cortesanos dieron la bienvenida al Príncipe, y concertaron las bodas.
+  Celebróse el matrimonio con magnificencia y boato inusitados, y la buena hada, que también asistió, colmó de bienes a los esposos, 
+  <emotion id="emotion_c07_utt60_seg602">
+    <category name="happiness"/>
+    los cuales vivieron felices y poderosos largos años.
+  </emotion>
+</emotionml>
+
+

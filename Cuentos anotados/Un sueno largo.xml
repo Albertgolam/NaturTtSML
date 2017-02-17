@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 NaturTtSML.xsd">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Un sueño largo</title>
+      </titleStmt>
+      <publicationStmt>
+        <p><!-- supply publication information --></p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><!-- supply information about the source --></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>  
+  <text>
+    <front>
+			<castList>
+				<castItem>
+					<role xml:id="NAR">narrador</role>
+					<roleDesc sex="male" age="adult" kind="human" personality="neutral"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_pa_diphone"
+						pitchRange="10%" speechRate="-60%" pauseDuration="275%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="REY">narrador</role>
+					<roleDesc sex="male" age="adult" kind="human" personality="good"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_pa_diphone"
+						pitch="-40%" pitchRange="5%" speechRate="-45%" pauseDuration="200%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="RANA">rana</role>
+					<roleDesc sex="female" age="adult" kind="animal" personality="good"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_sf_diphone"
+						pitch="-45%" pitchRange="5%" speechRate="-60%" pauseDuration="100%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="HADA13">hada 13</role>
+					<roleDesc sex="female" age="senior" kind="human" personality="good"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_sf_diphone"
+						pitch="-30%" pitchRange="20%" speechRate="-30%" pauseDuration="60%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="HADA12">hada 12</role>
+					<roleDesc sex="female" age="senior" kind="human" personality="bad"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_sf_diphone"
+						pitch="-20%" pitchRange="10%" speechRate="-30%" pauseDuration="60%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="PRINCESA">princesa</role>
+					<roleDesc sex="female" age="young" kind="human" personality="good"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_sf_diphone"
+						pitch="45%" pitchRange="10%" speechRate="-30%" pauseDuration="60%"/>
+				</castItem>
+				<castItem>
+					<role xml:id="PRINCIPE">príncipe</role>
+					<roleDesc sex="male" age="young" kind="human" personality="good"/>
+					<actor tool="Festival TTS" voiceName="JuntaDeAndalucia_es_pa_diphone"
+						pitch="20%" pitchRange="2.5%" speechRate="-45%" pauseDuration="60%"/>
+				</castItem>
+			</castList>
+		</front>
+    <body>
+      <u xml:id="utt1" who="#NAR">
+        <seg xml:id="seg11" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Un sueño largo</seg>
+      </u>
+      <pause dur="PT0.80S"/>
+      <u xml:id="utt2" who="#NAR">
+        <seg xml:id="seg21" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Hace mucho tiempo vivieron un Rey y una Reina, muy buenos ambos, pero que tenían la desgracia de no tener hijos, por lo que no dejaban de decir a cada instante: </seg>
+      </u>
+      <u xml:id="utt3" who="#REY">
+        <seg xml:id="seg31" emotion="emotion.un_sueño_largo#emotion_c07_utt3_seg31" dialogueAct="inform" sentenceType="exclamative">-¡Qué felices seríamos si tuviéramos un hijo! </seg>
+      </u>
+      <u xml:id="utt4" who="#NAR">
+        <seg xml:id="seg41" emotion="emotion.un_sueño_largo#emotion_c07_utt4_seg41" dialogueAct="inform" sentenceType="declarative">Pero no les nacía ninguno. </seg>
+      </u>
+      <u xml:id="utt5" who="#NAR">
+        <seg xml:id="seg51" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Una vez, estando la Reina bañándose, salió a tierra una rana, la cual dijo: </seg>
+      </u>
+      <u xml:id="utt6" who="#RANA">
+        <seg xml:id="seg61" emotion="neutral" dialogueAct="inform" sentenceType="declarative">-Antes de un año verás cumplido tu deseo, y tendrás una hija. </seg>
+      </u>
+      <u xml:id="utt7" who="#NAR">
+        <seg xml:id="seg71" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Sucedió lo que había predicho la rana, y la Reina dio a luz una niña tan hermosa, que el Rey, lleno de alegría, no cabía en sí, y dispuso una suntuosa fiesta, a la cual convidó, no solo a sus parientes, amigos y conocidos, sino también a las hadas, para que fuesen benignas con la hija. </seg>
+      </u>
+      <u xml:id="utt8" who="#NAR">
+        <seg xml:id="seg81" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Había trece hadas en el reino, pero como el Rey sólo tenía doce platos de oro en que pudieran comer, una de ellas tuvo que quedarse en casa. </seg>
+      </u>
+      <u xml:id="utt9" who="#NAR">
+        <seg xml:id="seg91" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Celebróse el banquete con gran pompa, y al terminarse, regaló a la niña cada una de las hadas un don milagroso: </seg>
+      </u>
+      <u xml:id="utt10" who="#NAR">
+        <seg xml:id="seg101" emotion="neutral" dialogueAct="inform" sentenceType="declarative">una le dio virtud, otra hermosura, la tercera riquezas, y así le regalaron cuanto se puede desear en el mundo. </seg>
+      </u>
+      <u xml:id="utt11" who="#NAR">
+        <seg xml:id="seg111" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Apenas había hablado la undécima, </seg>
+        <seg xml:id="seg112" emotion="emotion.un_sueño_largo#emotion_c07_utt11_seg112" dialogueAct="inform" sentenceType="declarative">entró de repente la decimotercera, </seg>
+        <seg xml:id="seg113" emotion="neutral" dialogueAct="inform" sentenceType="declarative">deseosa de vengarse, porque no la habían convidado a la comida, y sin saludar a nadie, dijo en alta voz: </seg>
+      </u>
+      <u xml:id="utt12" who="#HADA13">
+        <seg xml:id="seg121" emotion="emotion.un_sueño_largo#emotion_c07_utt12_seg121" dialogueAct="threat" sentenceType="declarative">-La princesa se herirá con un huso al cumplir los quince años, y caerá muerta. </seg>
+      </u>
+      <u xml:id="utt13" who="#NAR">
+        <seg xml:id="seg131" emotion="neutral" dialogueAct="inform" sentenceType="exclamative">Y salió de la sala sin decir otra palabra. </seg>
+      </u>
+      <u xml:id="utt14" who="#NAR">
+        <seg xml:id="seg141" emotion="emotion.un_sueño_largo#emotion_c07_utt14_seg141" dialogueAct="inform" sentenceType="declarative">Asustáronse todos los presentes; </seg>
+        <seg xml:id="seg142" emotion="neutral" dialogueAct="inform" sentenceType="declarative">pero se adelantó el hada duodécima, que no había hecho aún su regalo, y no pudiendo evitar el mal que había predicho su compañera, procuró atenuarlo. </seg>
+      </u>
+      <u xml:id="utt15" who="#HADA12">
+        <seg xml:id="seg151" emotion="neutral" dialogueAct="inform" sentenceType="declarative">-La Princesa, </seg>
+      </u>
+      <u xml:id="utt16" who="#NAR">
+        <seg xml:id="seg161" emotion="neutral" dialogueAct="inform" sentenceType="declarative">dijo, </seg>
+      </u>
+      <u xml:id="utt17" who="#HADA12">
+        <seg xml:id="seg171" emotion="neutral" dialogueAct="inform" sentenceType="declarative">no morirá, sino que caerá en profundo sueño durante un siglo, y transcurrido este tiempo volverá a despertarse. </seg>
+      </u>
+      <u xml:id="utt18" who="#NAR">
+        <seg xml:id="seg181" emotion="neutral" dialogueAct="inform" sentenceType="declarative">El Rey, que quería librar a su querida hija de tan gran desgracia, dio orden de que quemasen los husos de todo el reino: </seg>
+      </u>
+      <u xml:id="utt19" who="#NAR">
+        <seg xml:id="seg191" emotion="neutral" dialogueAct="inform" sentenceType="declarative">la joven alcanzó todas las gracias que le habían concedido las hadas, y así era muy hermosa, amable, modesta y entendida, de manera que cuantos la veían quedaban prendados de ella. </seg>
+      </u>
+      <u xml:id="utt20" who="#NAR">
+        <seg xml:id="seg201" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Al llegar el día en que cumplía los quince años, la joven se hallaba sola en el palacio, por haber salido el Rey y la Reina. </seg>
+      </u>
+      <u xml:id="utt21" who="#NAR">
+        <seg xml:id="seg211" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Comenzó a recorrer aquella casa y vio una tras otra todas las habitaciones, hasta que llegó a una torre muy elevada. </seg>
+      </u>
+      <u xml:id="utt22" who="#NAR">
+        <seg xml:id="seg221" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Subió una estrecha escalera de caracol, y llegó a una pequeña puerta. </seg>
+      </u>
+      <u xml:id="utt23" who="#NAR">
+        <seg xml:id="seg231" emotion="neutral" dialogueAct="inform" sentenceType="declarative">En la cerradura estaba puesta la llave, mohosa, y al darle una vuelta se abrió la puerta y vio en un cuartito una anciana con un huso, hilando muy deprisa su lino.</seg>
+      </u>
+      <u xml:id="utt24" who="#NAR">
+        <seg xml:id="seg241" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Aquella anciana era el hada decimotercera. </seg>
+      </u>
+      <u xml:id="utt25" who="#PRINCESA">
+        <seg xml:id="seg251" emotion="neutral" dialogueAct="inform" sentenceType="declarative">-Buenos días, abuelita, </seg>
+      </u>
+      <u xml:id="utt26" who="#NAR">
+        <seg xml:id="seg261" emotion="neutral" dialogueAct="inform" sentenceType="declarative">dijo la Princesa. </seg>
+      </u>
+      <u xml:id="utt27" who="#PRINCESA">
+        <seg xml:id="seg271" emotion="neutral" dialogueAct="setQuestion" sentenceType="interrogative">-¿Qué haces aquí? </seg>
+      </u>
+      <u xml:id="utt28" who="#HADA13">
+        <seg xml:id="seg281" emotion="neutral" dialogueAct="inform" sentenceType="declarative">-Estoy hilando, </seg>
+      </u>
+      <u xml:id="utt29" who="#NAR">
+        <seg xml:id="seg291" emotion="neutral" dialogueAct="inform" sentenceType="declarative">contestó la anciana, bajando la cabeza. </seg>
+      </u>
+      <u xml:id="utt30" who="#PRINCESA">
+        <seg xml:id="seg301" emotion="neutral" dialogueAct="setQuestion" sentenceType="interrogative">-¿Qué es eso que se mueve con tanta ligereza? </seg>
+      </u>
+      <u xml:id="utt31" who="#NAR">
+        <seg xml:id="seg311" emotion="neutral" dialogueAct="inform" sentenceType="declarative">continuó diciendo la niña. </seg>
+      </u>
+      <u xml:id="utt32" who="#NAR">
+        <seg xml:id="seg321" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cogió el huso, y quiso hilar; </seg>
+      </u>
+      <u xml:id="utt33" who="#NAR">
+        <seg xml:id="seg331" emotion="neutral" dialogueAct="inform" sentenceType="declarative">pero apenas lo había tocado, </seg>
+        <seg xml:id="seg332" emotion="emotion.un_sueño_largo#emotion_c07_utt33_seg332" dialogueAct="inform" sentenceType="declarative">se realizó la profecía, y se pinchó con él en un dedo. </seg>
+      </u>
+      <u xml:id="utt34" who="#NAR">
+        <seg xml:id="seg341" emotion="neutral" dialogueAct="inform" sentenceType="imperative">En el momento en que sintió el pinchazo, cayó como aniquilada por un rayo, y se durmió profundamente; </seg>
+      </u>
+      <u xml:id="utt35" who="#NAR">
+        <seg xml:id="seg351" emotion="neutral" dialogueAct="inform" sentenceType="declarative">y este sueño se esparció por todo el palacio. </seg>
+      </u>
+      <u xml:id="utt36" who="#NAR">
+        <seg xml:id="seg361" emotion="neutral" dialogueAct="inform" sentenceType="imperative">El Rey y la Reina, que habían entrado en aquel mismo momento, cayeron dormidos, y con ellos toda la corte. </seg>
+      </u>
+      <u xml:id="utt37" who="#NAR">
+        <seg xml:id="seg371" emotion="neutral" dialogueAct="inform" sentenceType="declarative">También se durmieron los caballos en la cuadra, los perros en el patio, las palomas en el tejado, las moscas en la pared, y hasta el fuego que ardía, en el fogón, cesó de arder, y el guisado dejó de cocer, y el cocinero y los pinches se durmieron, por último, para que no quedase nadie despierto. </seg>
+      </u>
+      <u xml:id="utt38" who="#NAR">
+        <seg xml:id="seg381" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cesó también el viento, y no volvieron a moverse ni aun las hojas de los árboles que estaban delante del palacio. </seg>
+      </u>
+      <u xml:id="utt39" who="#NAR">
+        <seg xml:id="seg391" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Andando el tiempo brotó y creció un zarzal en torno de aquel edificio, que haciéndose más grande cada día, lo cercó por completo, de manera que ni aun la bandera se veía. </seg>
+      </u>
+      <u xml:id="utt40" who="#NAR">
+        <seg xml:id="seg401" emotion="neutral" dialogueAct="inform" sentenceType="declarative">En el país se contaba la leyenda de la hermosa Flor Celeste dormida, pues así llamaron a la Princesa, y de cuando en cuando, venían algunos Príncipes que querían penetrar a través de la zarza en el palacio; </seg>
+      </u>
+      <u xml:id="utt41" who="#NAR">
+        <seg xml:id="seg411" emotion="neutral" dialogueAct="inform" sentenceType="declarative">pero en vano, porque las espinas se agarraban a ellos como si tuvieran manos, y los jóvenes quedaban presos en ellas, y no pudiendo soltarse, morían allí de hambre y de desesperación. </seg>
+      </u>
+      <u xml:id="utt42" who="#NAR">
+        <seg xml:id="seg421" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Otros, más afortunados, escapaban; </seg>
+      </u>
+      <u xml:id="utt43" who="#NAR">
+        <seg xml:id="seg431" emotion="neutral" dialogueAct="inform" sentenceType="declarative">pero tan mal heridos, que no les quedaba gana de volver a intentar de nuevo la aventura. </seg>
+      </u>
+      <u xml:id="utt44" who="#NAR">
+        <seg xml:id="seg441" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Transcurridos muchos años, llegó un Príncipe a aquel país, y oyó contar a un anciano la leyenda de aquella zarza, diciendo que detrás de ella había un palacio, en el que dormía desde el siglo anterior una hermosa Princesa, llamada Flor Celeste, y que con ella estaban dormidos el Rey, la Reina y toda la corte. </seg>
+      </u>
+      <u xml:id="utt45" who="#NAR">
+        <seg xml:id="seg451" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Añadió haber oído contar a su abuelo que muchos Príncipes habían tratado ya de atravesar el zarzal, pero que no lo habían podido conseguir, y habían quedado muertos o mal heridos. </seg>
+      </u>
+      <u xml:id="utt46" who="#NAR">
+        <seg xml:id="seg461" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Entonces dijo el joven: </seg>
+      </u>
+      <u xml:id="utt47" who="#PRINCIPE">
+        <seg xml:id="seg471" emotion="neutral" dialogueAct="inform" sentenceType="exclamative">-Yo no tengo miedo, y he de ver a la bella Flor Celeste. </seg>
+      </u>
+      <u xml:id="utt48" who="#NAR">
+        <seg xml:id="seg481" emotion="neutral" dialogueAct="inform" sentenceType="declarative">El buen viejo quiso disuadirle; </seg>
+      </u>
+      <u xml:id="utt49" who="#NAR">
+        <seg xml:id="seg491" emotion="neutral" dialogueAct="inform" sentenceType="declarative">pero viendo que nada conseguía, le dejó entregarse a su suerte. </seg>
+      </u>
+      <u xml:id="utt50" who="#NAR">
+        <seg xml:id="seg501" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Precisamente ya habían transcurrido los cien años y llegado el día en el cual debía despertar Flor Celeste. </seg>
+      </u>
+      <u xml:id="utt51" who="#NAR">
+        <seg xml:id="seg511" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Cuando se acercó el Príncipe a la zarza, la halló convertida en hermosas rosas, que abriéndose por sí solas, le dejaron pasar, cerrándose tras él. </seg>
+      </u>
+      <u xml:id="utt52" who="#NAR">
+        <seg xml:id="seg521" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Llegó al patio y a la cuadra, y vio dormidos a los perros y caballos; </seg>
+      </u>
+      <u xml:id="utt53" who="#NAR">
+        <seg xml:id="seg531" emotion="neutral" dialogueAct="inform" sentenceType="declarative">miró al tejado, y vio a las palomas con la cabeza debajo de las alas, y cuando entró en el edificio, notó que las moscas estaban dormidas en las paredes, el cocinero se hallaba en la cocina en actitud de llamar a los pinches, y la criada cerca de un gallo, que parecía preparada a desplumar. </seg>
+      </u>
+      <u xml:id="utt54" who="#NAR">
+        <seg xml:id="seg541" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Un poco más lejos vio en un salón a toda la corte dormida, y al Rey y a la Reina durmiendo en su trono. </seg>
+      </u>
+      <u xml:id="utt55" who="#NAR">
+        <seg xml:id="seg551" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Siguió el Príncipe adelante, y en una rica estancia, tapizada de brillantes estrellas de oro, se ofreció a los atónitos ojos del doncel, acostada en suntuoso lecho de damasquinadas colgaduras, una joven tan asombrosamente hermosa, que el Príncipe, extasiado, se postró de rodillas ante ella y la besó en una de sus manos. </seg>
+      </u>
+      <u xml:id="utt56" who="#NAR">
+        <seg xml:id="seg561" emotion="emotion.un_sueño_largo#emotion_c07_utt56_seg561" dialogueAct="inform" sentenceType="declarative">Al punto quedó desecho el encanto. </seg>
+      </u>
+      <u xml:id="utt57" who="#NAR">
+        <seg xml:id="seg571" emotion="emotion.un_sueño_largo#emotion_c07_utt57_seg571" dialogueAct="inform" sentenceType="declarative">La Princesa despertó, abrió los ojos, sonrió dulcemente, y se incorporó en el lecho. </seg>
+      </u>
+      <u xml:id="utt58" who="#NAR">
+        <seg xml:id="seg581" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Todo el palacio se fue animando, y libres todos del sueño que les había sorprendido, cada cual se dedicó a sus labores ordinarias. </seg>
+      </u>
+      <u xml:id="utt59" who="#NAR">
+        <seg xml:id="seg591" emotion="neutral" dialogueAct="inform" sentenceType="declarative">El Rey, la Reina y los cortesanos dieron la bienvenida al Príncipe, y concertaron las bodas. </seg>
+      </u>
+      <u xml:id="utt60" who="#NAR">
+        <seg xml:id="seg601" emotion="neutral" dialogueAct="inform" sentenceType="declarative">Celebróse el matrimonio con magnificencia y boato inusitados, y la buena hada, que también asistió, colmó de bienes a los esposos, </seg>
+        <seg xml:id="seg602" emotion="emotion.un_sueño_largo#emotion_c07_utt60_seg602" dialogueAct="inform" sentenceType="declarative">los cuales vivieron felices y poderosos largos años. </seg>
+      </u>
+    </body>
+  </text>
+</TEI>
+
+
+
+
+
+
+
+
+
+
+
